@@ -1,0 +1,764 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/ldc\/Downloads\/dante-1.4.0\/missing --run aclocal-1.11$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ADDLEN	shmemconfig.c	112;"	d	file:
+AMTAR	Makefile	/^AMTAR = ${SHELL} \/home\/ldc\/Downloads\/dante-1.4.0\/missing --run tar$/;"	m
+AM_CFLAGS	Makefile	/^AM_CFLAGS = $(CFLAGVALS) -DSTANDALONE_UNIT_TEST=0$/;"	m
+AM_DEFAULT_VERBOSITY	Makefile	/^AM_DEFAULT_VERBOSITY = 0$/;"	m
+AM_V_CC	Makefile	/^AM_V_CC = $(am__v_CC_$(V))$/;"	m
+AM_V_CCLD	Makefile	/^AM_V_CCLD = $(am__v_CCLD_$(V))$/;"	m
+AM_V_GEN	Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_at	Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_lt	Makefile	/^AM_V_lt = $(am__v_lt_$(V))$/;"	m
+AR	Makefile	/^AR = ar$/;"	m
+ATTACH_IF_NEEDED	rule.c	1689;"	d	file:
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/ldc\/Downloads\/dante-1.4.0\/missing --run autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/ldc\/Downloads\/dante-1.4.0\/missing --run autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/ldc\/Downloads\/dante-1.4.0\/missing --run automake-1.11$/;"	m
+AWK	Makefile	/^AWK = mawk$/;"	m
+CC	Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCLD	Makefile	/^CCLD = $(CC)$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -ggdb -pipe $/;"	m
+CFLAGVALS	Makefile	/^CFLAGVALS = -DSOCKS_SERVER=1 -DSOCKS_CLIENT=0 -DSOCKSLIBRARY_DYNAMIC=${SERVDL}$/;"	m
+CHECKRESULT	shmemconfig.c	691;"	d	file:
+CHECK_ALARM	sockd_tcp.c	214;"	d	file:
+CHECK_IOSTATUS	sockd_tcp.c	274;"	d	file:
+CHILD	sockd_child.c	51;"	d	file:
+COMPILE	Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = $(top_builddir)\/include\/autoconf.h$/;"	m
+COPY	shmemconfig.c	/^typedef enum { COPY = 1, SIZE } configop_t;$/;"	e	enum:__anon1	file:
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = -D_XOPEN_SOURCE=600 -D_XOPEN_SOURCE_EXTENDED -D_BSD_SOURCE -DDEBUG=1 -D_FORTIFY_SOURCE=2$/;"	m
+CPU_EQUAL	cpuaffinity.c	/^CPU_EQUAL(set1, set2)$/;"	f
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+DEFAULT_INCLUDES	Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)\/include$/;"	m
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DISCONNECT_NEEDED	sockd_io_misc.c	82;"	d	file:
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTSUBDIRS	Makefile	/^DISTSUBDIRS = include libscompat unlicensed example doc bin SPECS capi contrib sockd lib dlib dlib64$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES = $(am__sockd_SOURCES_DIST) $(EXTRA_sockd_SOURCES)$/;"	m
+DLIBDEPS	Makefile	/^DLIBDEPS = $/;"	m
+DLLTOOL	Makefile	/^DLLTOOL = false$/;"	m
+DOCOPY	shmemconfig.c	131;"	d	file:
+DOLINKCOPY	shmemconfig.c	158;"	d	file:
+DOLOGCOPY	shmemconfig.c	208;"	d	file:
+DOOFFSET	shmemconfig.c	125;"	d	file:
+DOPRINT_DATA	monitor.c	1795;"	d	file:
+DOTEST	sockd.c	52;"	d	file:
+DSYMUTIL	Makefile	/^DSYMUTIL = $/;"	m
+DUMPBIN	Makefile	/^DUMPBIN = $/;"	m
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+ELECTRICFENCE	sockd.c	122;"	d	file:
+EQCHECK	shmemconfig.c	737;"	d	file:
+EQCHECK_PTR	shmemconfig.c	726;"	d	file:
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+EXTRA_sockd_SOURCES	Makefile	/^EXTRA_sockd_SOURCES = ..\/libscompat\/getifaddrs.c \\$/;"	m
+FGREP	Makefile	/^FGREP = \/bin\/grep -F$/;"	m
+FIRST_SHMEMID	shmem.c	51;"	d	file:
+FULLSETS	privileges.c	252;"	d	file:
+GREP	Makefile	/^GREP = \/bin\/grep$/;"	m
+HANDLE_SHMCR	shmem.c	884;"	d	file:
+HAVE_FREE_SLOTS	sockd.c	657;"	d	file:
+INCLUDES	Makefile	/^INCLUDES = -I$(top_srcdir)\/include -I$(top_srcdir)\/libscompat \\$/;"	m
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+IO_CLEAR_ALL_SETS	sockd_io.c	294;"	d	file:
+ISA64DIR	Makefile	/^ISA64DIR = $/;"	m
+LD	Makefile	/^LD = \/usr\/bin\/ld -m elf_x86_64$/;"	m
+LDAP_DEPRECATED	ldap.c	60;"	d	file:
+LDAP_OPT_NETWORK_TIMEOUT	ldap.c	129;"	d	file:
+LDAP_REFERRALS	ldap.c	62;"	d	file:
+LDAP_X_OPT_CONNECT_TIMEOUT	ldap.c	132;"	d	file:
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LEX	Makefile	/^LEX = flex$/;"	m
+LEXLIB	Makefile	/^LEXLIB = -lfl$/;"	m
+LEX_OUTPUT_ROOT	Makefile	/^LEX_OUTPUT_ROOT = lex.yy$/;"	m
+LIBDSCSRC	Makefile	/^LIBDSCSRC = libdsocks_la-issetugid.lo libdsocks_la-setproctitle.lo libdsocks_la-strlcpy.lo libdsocks_la-strvis.lo$/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBRARY_PREFIX	Makefile	/^LIBRARY_PREFIX = \/usr\/local\/dante\/lib$/;"	m
+LIBS	Makefile	/^LIBS = -lrt -lcrypt  -ldl $/;"	m
+LIBSCOMPAT	Makefile	/^LIBSCOMPAT = $/;"	m
+LIBSCSRC	Makefile	/^LIBSCSRC = issetugid.lo setproctitle.lo strlcpy.lo strvis.lo$/;"	m
+LIBTOOL	Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m
+LINK	Makefile	/^LINK = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+LINKCHECK	shmemconfig.c	749;"	d	file:
+LINT	Makefile	/^LINT = $/;"	m
+LINTFLAGS	Makefile	/^LINTFLAGS = $/;"	m
+LINTLIBOPT	Makefile	/^LINTLIBOPT = $/;"	m
+LINTPASS1	Makefile	/^LINTPASS1 = $/;"	m
+LINTPASS2	Makefile	/^LINTPASS2 = $/;"	m
+LINTSCCOMPATLIB	Makefile	/^LINTSCCOMPATLIB = -lscompat$/;"	m
+LIPO	Makefile	/^LIPO = $/;"	m
+LN_S	Makefile	/^LN_S = ln -s$/;"	m
+LTCOMPILE	Makefile	/^LTCOMPILE = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/ldc\/Downloads\/dante-1.4.0\/missing --run makeinfo$/;"	m
+MANIFEST_TOOL	Makefile	/^MANIFEST_TOOL = :$/;"	m
+MAPOPT	Makefile	/^MAPOPT = -export-symbols socks.sym$/;"	m
+MAXOPTIONNAME	sockd_socket.c	58;"	d	file:
+MAXSOCKETOPTIONS	sockd_socket.c	50;"	d	file:
+MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MOTHER	sockd_child.c	50;"	d	file:
+NEWEXTERNAL	serverconfig.c	52;"	d	file:
+NEWINTERNAL	serverconfig.c	59;"	d	file:
+NM	Makefile	/^NM = \/usr\/bin\/nm -B$/;"	m
+NMEDIT	Makefile	/^NMEDIT = $/;"	m
+NOPRELOAD	Makefile	/^NOPRELOAD = $/;"	m
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+OBJDUMP	Makefile	/^OBJDUMP = objdump$/;"	m
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+OP_CONNECT	monitor.c	69;"	d	file:
+OP_DISCONNECT	monitor.c	70;"	d	file:
+OP_REMOVE_SESSION	monitor.c	71;"	d	file:
+OTOOL	Makefile	/^OTOOL = $/;"	m
+OTOOL64	Makefile	/^OTOOL64 = $/;"	m
+PACKAGE	Makefile	/^PACKAGE = dante$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_URL	Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = $/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+PRELOAD_POSTFIX	Makefile	/^PRELOAD_POSTFIX = $/;"	m
+PRELOAD_SEPERATOR	Makefile	/^PRELOAD_SEPERATOR =  $/;"	m
+PRELOAD_VARIABLE	Makefile	/^PRELOAD_VARIABLE = LD_PRELOAD$/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRINT_DATALIMIT	monitor.c	1575;"	d	file:
+PRINT_DISCONNECTLIMIT	monitor.c	1591;"	d	file:
+PROGRAMS	Makefile	/^PROGRAMS = $(sbin_PROGRAMS)$/;"	m
+PTRCHECK	shmemconfig.c	708;"	d	file:
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m
+RAW_SOCKETBUFFER	sockd_io.c	71;"	d	file:
+RESET_DISCONNECT	monitor.c	1262;"	d	file:
+RPMVERSION1	Makefile	/^RPMVERSION1 = 1.4.0$/;"	m
+RPMVERSION2	Makefile	/^RPMVERSION2 = 1$/;"	m
+RULEADDR_MATCHES_ALL	rule.c	3040;"	d	file:
+RULEADDR_MATCHES_ALL_ADDRESSES	rule.c	3036;"	d	file:
+RULEADDR_MATCHES_ALL_PORTS	rule.c	3026;"	d	file:
+SASL_CB_AUTHNAME	ldap.c	120;"	d	file:
+SASL_CB_ECHOPROMPT	ldap.c	122;"	d	file:
+SASL_CB_GETREALM	ldap.c	124;"	d	file:
+SASL_CB_LIST_END	ldap.c	125;"	d	file:
+SASL_CB_NOECHOPROMPT	ldap.c	123;"	d	file:
+SASL_CB_PASS	ldap.c	121;"	d	file:
+SASL_CB_USER	ldap.c	119;"	d	file:
+SCCOMPATLIB	Makefile	/^SCCOMPATLIB = $/;"	m
+SED	Makefile	/^SED = \/bin\/sed$/;"	m
+SERVDL	Makefile	/^SERVDL = 1$/;"	m
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SET_USEUNUSE	rule.c	1644;"	d	file:
+SHELL	Makefile	/^SHELL = \/bin\/bash$/;"	m
+SIZE	shmemconfig.c	/^typedef enum { COPY = 1, SIZE } configop_t;$/;"	e	enum:__anon1	file:
+SOCKDCOMPAT	Makefile	/^SOCKDCOMPAT = setproctitle.o strlcpy.o strvis.o$/;"	m
+SOCKDDEPS	Makefile	/^SOCKDDEPS = -lm$/;"	m
+SOCKSIFY_PRELOAD_LIBS	Makefile	/^SOCKSIFY_PRELOAD_LIBS = librt.so libdl.so$/;"	m
+SOFULLPATH	Makefile	/^SOFULLPATH = $/;"	m
+SOLIB_POSTFIX	Makefile	/^SOLIB_POSTFIX = so$/;"	m
+SOURCES	Makefile	/^SOURCES = $(sockd_SOURCES) $(EXTRA_sockd_SOURCES)$/;"	m
+STRIP	Makefile	/^STRIP = strip$/;"	m
+TIMERCALC	monitor.c	1607;"	d	file:
+TOPEXTRADIST	Makefile	/^TOPEXTRADIST = $/;"	m
+TOPSUBDIRS	Makefile	/^TOPSUBDIRS =  include lib dlib sockd unlicensed example doc bin SPECS capi contrib$/;"	m
+UDPLOG	sockd_io.c	3118;"	d	file:
+UDP_INITIALCLIENTCOUNT	sockd_io.c	63;"	d	file:
+UNITSUBDIRS	Makefile	/^UNITSUBDIRS = lib dlib sockd $/;"	m
+VERSION	Makefile	/^VERSION = 1.4.0$/;"	m
+YACC	Makefile	/^YACC = bison -y$/;"	m
+YFLAGS	Makefile	/^YFLAGS = $/;"	m
+_GNU_SOURCE	cpuaffinity.c	56;"	d	file:
+_GNU_SOURCE	cpupolicy.c	44;"	d	file:
+_XOPEN_SOURCE	udp_port.c	59;"	d	file:
+_XOPEN_SOURCE_EXTENDED	udp_port.c	60;"	d	file:
+__progname	sockd.c	/^char *__progname = "barefootd";   \/* default. *\/$/;"	v
+__progname	sockd.c	/^char *__progname = "covenantd";   \/* default. *\/$/;"	v
+__progname	sockd.c	/^char *__progname = "sockd";   \/* default. *\/$/;"	v
+_alignment	shmemconfig.c	/^static uintptr_t _alignment, _mask;$/;"	v	file:
+_extra_due_alignment	shmemconfig.c	/^static size_t _left, _left_no_alignment_luck, _extra_due_alignment;$/;"	v	file:
+_left	shmemconfig.c	/^static size_t _left, _left_no_alignment_luck, _extra_due_alignment;$/;"	v	file:
+_left_no_alignment_luck	shmemconfig.c	/^static size_t _left, _left_no_alignment_luck, _extra_due_alignment;$/;"	v	file:
+_mask	shmemconfig.c	/^static uintptr_t _alignment, _mask;$/;"	v	file:
+_nextstart	shmemconfig.c	/^static void *_nextstart;$/;"	v	file:
+abs_builddir	Makefile	/^abs_builddir = \/home\/ldc\/Downloads\/dante-1.4.0\/sockd$/;"	m
+abs_srcdir	Makefile	/^abs_srcdir = \/home\/ldc\/Downloads\/dante-1.4.0\/sockd$/;"	m
+abs_top_builddir	Makefile	/^abs_top_builddir = \/home\/ldc\/Downloads\/dante-1.4.0$/;"	m
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/home\/ldc\/Downloads\/dante-1.4.0$/;"	m
+ac_ct_AR	Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_DUMPBIN	Makefile	/^ac_ct_DUMPBIN = $/;"	m
+ac_krb5_config	Makefile	/^ac_krb5_config = no$/;"	m
+accesscheck	accesscheck.c	/^accesscheck(s, auth, src, dst, emsg, emsgsize)$/;"	f
+addchild	sockd_child.c	/^addchild(type)$/;"	f	file:
+addclient	sockd_udp.c	/^addclient(clientladdr, client, clientc, maxclientc, clientv, state, rule)$/;"	f
+addclientrule	rule.c	/^addclientrule(newrule)$/;"	f
+addexternal	serverconfig.c	/^addexternal(addr)$/;"	f
+addhostidrule	rule.c	/^addhostidrule(newrule)$/;"	f
+addinternal	serverconfig.c	/^addinternal(addr, protocol)$/;"	f
+addlinkedname	rule.c	/^addlinkedname(linkedname, name)$/;"	f
+addmonitor	monitor.c	/^addmonitor(newmonitor)$/;"	f
+addrindex_on_externallist	serverconfig.c	/^addrindex_on_externallist(external, _addr)$/;"	f
+addrindex_on_listenlist	serverconfig.c	/^addrindex_on_listenlist(listc, listv, _addr, protocol)$/;"	f
+addrisbindable	serverconfig.c	/^addrisbindable(addr)$/;"	f
+addrscope_matches	getoutaddr.c	/^addrscope_matches(addr, scope)$/;"	f	file:
+addrule	rule.c	/^addrule(newrule, rulebase, ruletype)$/;"	f	file:
+addsocksrule	rule.c	/^addsocksrule(newrule)$/;"	f
+alarm_add_connect	monitor.c	/^alarm_add_connect(alarm, sides, cinfo, lock)$/;"	f
+alarm_add_disconnect	monitor.c	/^alarm_add_disconnect(weclosedfirst, alarm, sides, cinfo, reason, lock)$/;"	f
+alarm_data_toggle	monitor.c	/^alarm_data_toggle(monitor, alarmside, alarm, tnow)$/;"	f	file:
+alarm_inherit	monitor.c	/^alarm_inherit(from, cinfo_from, to, cinfo_to, sidesconnected)$/;"	f
+alarm_remove_session	monitor.c	/^alarm_remove_session(alarm, sides, cinfo, lock)$/;"	f
+alarmcheck_data	monitor.c	/^alarmcheck_data(monitor, alarm, alarmside, sessionc, tnow)$/;"	f	file:
+alarmcheck_disconnect	monitor.c	/^alarmcheck_disconnect(monitor, alarm, alarmside, tnow, alarmtriggered)$/;"	f	file:
+alarmsactive	monitor.c	/^   size_t         alarmsactive;    \/* number of alarms currently active.      *\/$/;"	m	struct:__anon6	file:
+allocated	sockd_request.c	/^   unsigned char             allocated;$/;"	m	struct:req	file:
+allow_severity	rule.c	/^int allow_severity, deny_severity;$/;"	v
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/m4\/libtool.m4 \\$/;"	m
+am__append_1	Makefile	/^am__append_1 = ..\/dlib\/interposition.c$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__depfiles_maybe	Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(sbindir)"$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__mv	Makefile	/^am__mv = mv -f$/;"	m
+am__objects_1	Makefile	/^am__objects_1 = interposition.$(OBJEXT)$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__sockd_SOURCES_DIST	Makefile	/^am__sockd_SOURCES_DIST = ..\/lib\/addressmatch.c ..\/lib\/authneg.c \\$/;"	m
+am__tar	Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__untar	Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am__v_CCLD_	Makefile	/^am__v_CCLD_ = $(am__v_CCLD_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CCLD_0	Makefile	/^am__v_CCLD_0 = @echo "  CCLD  " $@;$/;"	m
+am__v_CC_	Makefile	/^am__v_CC_ = $(am__v_CC_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CC_0	Makefile	/^am__v_CC_0 = @echo "  CC    " $@;$/;"	m
+am__v_GEN_	Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_0	Makefile	/^am__v_GEN_0 = @echo "  GEN   " $@;$/;"	m
+am__v_at_	Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_0	Makefile	/^am__v_at_0 = @$/;"	m
+am__v_lt_	Makefile	/^am__v_lt_ = $(am__v_lt_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_lt_0	Makefile	/^am__v_lt_0 = --silent$/;"	m
+am_sockd_OBJECTS	Makefile	/^am_sockd_OBJECTS = addressmatch.$(OBJEXT) authneg.$(OBJEXT) \\$/;"	m
+argc_cpy	sockd.c	/^int argc_cpy;$/;"	v
+argv_cpy	sockd.c	/^char **argv_cpy;$/;"	v
+asciitoutf8	ldap_util.c	/^*asciitoutf8(input)$/;"	f
+auth2standard	sockd_request.c	/^auth2standard(auth, stdauth)$/;"	f	file:
+avgtv	math.c	/^avgtv(struct timeval *tvarr, size_t tvsize)$/;"	f
+bindexternaladdr	sockd_request.c	/^bindexternaladdr(io, _req, emsg, emsglen)$/;"	f	file:
+bindinternal	sockd_socket.c	/^bindinternal(protocol)$/;"	f
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bsdauth_passwordcheck	auth_bsd.c	/^bsdauth_passwordcheck(s, src, dst, auth, emsg, emsgsize)$/;"	f
+build	Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build_alias	Makefile	/^build_alias = $/;"	m
+build_cpu	Makefile	/^build_cpu = x86_64$/;"	m
+build_os	Makefile	/^build_os = linux-gnu$/;"	m
+build_triplet	Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_vendor	Makefile	/^build_vendor = unknown$/;"	m
+builddir	Makefile	/^builddir = .$/;"	m
+bw_left	bandwidth.c	/^bw_left(bw, lock)$/;"	f
+bw_rulehasoverflown	bandwidth.c	/^bw_rulehasoverflown(rule, tnow, overflowok)$/;"	f
+bw_unuse	bandwidth.c	/^bw_unuse(bw, cinfo, lock)$/;"	f
+bw_update	bandwidth.c	/^bw_update(bw, bwused, bwusedtime, lock)$/;"	f
+bw_use	bandwidth.c	/^bw_use(bw, cinfo, lock)$/;"	f
+bwoverflowtil	sockd_io.c	/^static struct timeval bwoverflowtil;$/;"	v	typeref:struct:timeval	file:
+cache_ldap_user	ldap.c	/^cache_ldap_user(username, retval)$/;"	f
+challenge	ldap.c	/^   const char *challenge;      \/* presented to user (e.g. OTP challenge).     *\/$/;"	m	struct:sasl_interact	file:
+checkconfig	serverconfig.c	/^checkconfig(void)$/;"	f
+checkmodule	checkmodule.c	/^checkmodule(name)$/;"	f
+checkmonitors	monitor.c	/^checkmonitors(void)$/;"	f	file:
+checkrule	rule.c	/^checkrule(rule)$/;"	f	file:
+checksockoptions	sockd_socket.c	/^checksockoptions(s, family, type, isclientside)$/;"	f
+childcheck	sockd_child.c	/^childcheck(type)$/;"	f
+childtype	sockd_child.c	/^childtype(pid)$/;"	f
+clearset	sockd_child.c	/^clearset(type, child, set)$/;"	f
+client	sockd_request.c	/^   struct sockaddr_storage   client;          \/* client's address.            *\/$/;"	m	struct:req	typeref:struct:req::sockaddr_storage	file:
+clientofsocket	sockd_udp.c	/^clientofsocket(s, udpclientc, udpclientv)$/;"	f
+close_iodescriptors	sockd_io.c	/^close_iodescriptors(io)$/;"	f
+closechild	sockd_child.c	/^closechild(pid, isnormalexit)$/;"	f
+command_matches	rule.c	/^command_matches(command, commands)$/;"	f
+compareconfigs	shmemconfig.c	/^compareconfigs(a, b)$/;"	f
+configop_t	shmemconfig.c	/^typedef enum { COPY = 1, SIZE } configop_t;$/;"	t	typeref:enum:__anon1	file:
+connectstatus	sockd_io.c	/^connectstatus(io, badfd)$/;"	f	file:
+convertresponse	sockd_request.c	/^convertresponse(oldres, newres, newversion)$/;"	f	file:
+cpu_equal	cpuaffinity.c	/^cpu_equal(set1, set2)$/;"	f
+cpu_get_setsize	cpuaffinity.c	/^cpu_get_setsize(void)$/;"	f
+cpu_getaffinity	cpuaffinity.c	/^cpu_getaffinity(pid, cpusetsize, mask)$/;"	f
+cpu_isset	cpuaffinity.c	/^cpu_isset(cpu, set)$/;"	f
+cpu_set	cpuaffinity.c	/^cpu_set(cpu, set)$/;"	f
+cpu_setaffinity	cpuaffinity.c	/^cpu_setaffinity(pid, cpusetsize, mask)$/;"	f
+cpu_zero	cpuaffinity.c	/^cpu_zero(set)$/;"	f
+cpupolicies	cpupolicy.c	/^cpupolicy_t cpupolicies[] = {$/;"	v
+cpupolicy2numeric	cpupolicy.c	/^cpupolicy2numeric(char *name)$/;"	f
+create_response	sockd_protocol.c	/^create_response(host, auth, version, responsecode, response)$/;"	f
+crule	sockd_request.c	/^   rule_t                    crule;           \/* crule matched for client.    *\/$/;"	m	struct:req	file:
+data	shmem.c	/^   } data;$/;"	m	struct:__anon4	typeref:union:__anon4::__anon5	file:
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+defresult	ldap.c	/^   const char *defresult;      \/* default result string.                      *\/$/;"	m	struct:sasl_interact	file:
+delete_negotiate	sockd_negotiate.c	/^delete_negotiate(neg, forwardedtomother)$/;"	f	file:
+delete_req	sockd_request.c	/^delete_req(req)$/;"	f	file:
+deny_severity	rule.c	/^int allow_severity, deny_severity;$/;"	v
+depcomp	Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+descriptorisreserved	sockd_util.c	/^descriptorisreserved(d)$/;"	f
+disable_childcreate	sockd_child.c	/^disable_childcreate(err, reason)$/;"	f
+disconnect_alarm_body	monitor.c	/^disconnect_alarm_body(weclosedfirst, op, alarm, sides, cinfo, reason, lock)$/;"	f	file:
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE}$/;"	m
+doconfigtest	shmemconfig.c	/^doconfigtest(void)$/;"	f
+doio_tcp	sockd_tcp.c	/^doio_tcp(io, rset, wset, flags, badfd)$/;"	f
+doio_udp	sockd_udp.c	/^doio_udp(io, rset, badfd)$/;"	f
+dorequest	sockd_request.c	/^dorequest(mother, request, clientudpaddr, weclosedfirst, emsg, emsglen)$/;"	f	file:
+dotest	sockd.c	/^dotest(void)$/;"	f	file:
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m
+enable_childcreate	sockd_child.c	/^enable_childcreate(void)$/;"	f
+err_code	ldap.c	/^   static char err_code[17];$/;"	v	file:
+error_message	ldap.c	/^   error_message(long code) {$/;"	f
+error_message	ldap.c	75;"	d	file:
+error_message	ldap.c	77;"	d	file:
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+external_has_global_safamily	monitor_util.c	/^external_has_global_safamily(safamily)$/;"	f
+external_has_only_safamily	monitor_util.c	/^external_has_only_safamily(safamily)$/;"	f
+external_has_safamily	monitor_util.c	/^external_has_safamily(safamily)$/;"	f
+external_set_safamily	serverconfig.c	/^external_set_safamily(hasipv4, hasipv6, hasipv6_gs)$/;"	f
+fillset	sockd_child.c	/^fillset(set, negc, reqc, ioc)$/;"	f
+findchild	sockd_child.c	/^findchild(pid, childc, childv)$/;"	f	file:
+flushio	sockd_request.c	/^flushio(mother, io)$/;"	f	file:
+freebuffers	sockd_io.c	/^freebuffers(io)$/;"	f	file:
+freedescriptors	sockd_util.c	/^freedescriptors(message, hfd)$/;"	f
+freelinkedname	rule.c	/^freelinkedname(list)$/;"	f
+freeroutelist	serverconfig.c	/^freeroutelist(routehead)$/;"	f
+fromaddr_as_expected	dante_udp.c	/^fromaddr_as_expected(expected, from, emsg, emsglen)$/;"	f	file:
+fwdrulev	sockd_io.c	/^static rule_t fwdrulev[SOCKD_IOMAX];$/;"	v	file:
+get_external_safamily	getoutaddr.c	/^get_external_safamily(client, command, reqhost)$/;"	f
+getchild	sockd_child.c	/^getchild(pid)$/;"	f
+getdefaultexternal	getoutaddr.c	/^getdefaultexternal(safamily, addrscope, ifindex, addr)$/;"	f	file:
+getinaddr	getoutaddr.c	/^getinaddr(laddr, _client, emsg, emsglen)$/;"	f
+getmem	shmemconfig.c	/^getmem(size)$/;"	f
+getnewios	sockd_io.c	/^getnewios()$/;"	f	file:
+getoptions	sockd_socket.c	/^getoptions(family, type, isclientside, optionsv, optionsc)$/;"	f	file:
+getoutaddr	getoutaddr.c	/^getoutaddr(laddr, client, cmd, reqhost, emsg, emsglen)$/;"	f
+getroute	sockd_request.c	/^getroute(client, req, emsg, emsglen)$/;"	f	file:
+getset	sockd_child.c	/^getset(type, set)$/;"	f
+gettimeout	monitor.c	/^gettimeout(timeout)$/;"	f	file:
+getudptarget	dante_udp.c	/^getudptarget(buf, buflen, header, headerlen, emsg, emsglen)$/;"	f
+groupmatch	accesscheck.c	/^groupmatch(auth, grouplist)$/;"	f
+handlechildcommand	sockd.c	/^handlechildcommand(command, child, finished)$/;"	f	file:
+hasreplycommands	serverconfig.c	/^hasreplycommands(command)$/;"	f
+hextoutf8	ldap_util.c	/^*hextoutf8(input, flag)$/;"	f
+host	Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host_alias	Makefile	/^host_alias = $/;"	m
+host_cpu	Makefile	/^host_cpu = x86_64$/;"	m
+host_os	Makefile	/^host_os = linux-gnu$/;"	m
+host_triplet	Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_vendor	Makefile	/^host_vendor = unknown$/;"	m
+hostidmatches	rule.c	/^hostidmatches(hostidc, hostidv, hostindex, addr, ruletype, number)$/;"	f
+hrule	sockd_request.c	/^   rule_t                    hrule;           \/* hrule matched for client.    *\/$/;"	m	struct:req	file:
+hrule_isset	sockd_request.c	/^   unsigned char             hrule_isset;$/;"	m	struct:req	file:
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m
+id	ldap.c	/^   unsigned long id;           \/* same as client\/user callback ID.            *\/$/;"	m	struct:sasl_interact	file:
+ifname_matches	getoutaddr.c	/^ifname_matches(ifname, ifindex)$/;"	f	file:
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+init_req	sockd_request.c	/^init_req(req, request)$/;"	f	file:
+initclient	sockd_udp.c	/^initclient(control, from, tohost, toaddr, rule, emsg, emsglen, udpdst)$/;"	f
+initlogaddrs	sockd_request.c	/^initlogaddrs(io, src, dst, proxy)$/;"	f	file:
+install_sh	Makefile	/^install_sh = ${SHELL} \/home\/ldc\/Downloads\/dante-1.4.0\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = ${SHELL} $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = ${SHELL} $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = ${SHELL} $(install_sh) -c$/;"	m
+io_add	sockd_request.c	/^io_add(iolist, newio)$/;"	f	file:
+io_add_alarmdisconnects	sockd_io_misc.c	/^io_add_alarmdisconnects(io, reason)$/;"	f
+io_addts	sockd_udp.c	/^io_addts(ts, from, to)$/;"	f
+io_allocated	sockd_io.c	/^io_allocated(tcpio, tcpfd, udpio, udpfd)$/;"	f	file:
+io_calculatelatency	sockd_udp.c	/^io_calculatelatency(ts_recv, tnow, latency)$/;"	f
+io_clearset	sockd_io.c	/^io_clearset(io, clearalltargets, set)$/;"	f	file:
+io_connectisinprogress	sockd_io.c	/^io_connectisinprogress(io)$/;"	f	file:
+io_delete	sockd_io.c	/^io_delete(mother, io, badfd, status)$/;"	f
+io_fillset	sockd_io.c	/^io_fillset(set, antiflags, antiflags_set, bwoverflowtil)$/;"	f	file:
+io_fillset_connectinprogress	sockd_io.c	/^io_fillset_connectinprogress(set)$/;"	f	file:
+io_find	sockd_request.c	/^io_find(iolist, addr)$/;"	f	file:
+io_finddescriptor	sockd_io.c	/^io_finddescriptor(d)$/;"	f	file:
+io_get_io_stats	sockd_udp.c	/^io_get_io_stats(void)$/;"	f
+io_get_ro_stats	sockd_udp.c	/^io_get_ro_stats(void)$/;"	f
+io_getset	sockd_io.c	/^io_getset(nfds, set)$/;"	f	file:
+io_gettimedout	sockd_io.c	/^io_gettimedout(void)$/;"	f	file:
+io_gettimeout	sockd_io.c	/^io_gettimeout(timeout)$/;"	f	file:
+io_packet_received	sockd_udp.c	/^io_packet_received(recvflags, bytesreceived, from, receivedon)$/;"	f
+io_packet_sent	sockd_udp.c	/^io_packet_sent(bytestosend, bytessent, tsreceived, from, to, emsg, emsglen)$/;"	f
+io_postconfigload	sockd_io.c	/^io_postconfigload(void)$/;"	f
+io_preconfigload	sockd_io.c	/^io_preconfigload(void)$/;"	f
+io_remove	sockd_request.c	/^io_remove(iolist, rmio)$/;"	f	file:
+io_syncudp	sockd_udp.c	/^io_syncudp(io, udpclient)$/;"	f
+io_syncudpdst	sockd_udp.c	/^io_syncudpdst(dst, udptarget)$/;"	f
+io_syncudpsrc	sockd_udp.c	/^io_syncudpsrc(src, udpclient)$/;"	f
+io_tcp_rw	sockd_tcp.c	/^io_tcp_rw(in, out, badfd, iostatus,$/;"	f	file:
+io_timeoutispossible	sockd_io.c	/^io_timeoutispossible(io)$/;"	f	file:
+io_timercmp	sockd_udp.c	/^io_timercmp(a, b)$/;"	f	file:
+io_timeuntiltimeout	sockd_io.c	/^io_timeuntiltimeout(io, tnow, timeouttype, doudpsync)$/;"	f	file:
+io_udp_client2target	dante_udp.c	/^io_udp_client2target(control, client, twotargets, cauth, state,$/;"	f
+io_udp_target2client	dante_udp.c	/^io_udp_target2client(control, client, twotargets, state,$/;"	f
+io_update	sockd_io.c	/^io_update(timenow, bwused, i_read, i_written,$/;"	f
+io_updatemonitor	sockd_io_misc.c	/^io_updatemonitor(io)$/;"	f
+io_updatestat	sockd_udp.c	/^io_updatestat(iostat)$/;"	f	file:
+ioc	sockd_io.c	/^const size_t ioc = ELEMENTS(iov);$/;"	v
+iochildc	sockd_child.c	/^static size_t iochildc;$/;"	v	file:
+iochildv	sockd_child.c	/^static sockd_child_t *iochildv;          \/* all our iochildren                *\/$/;"	v	file:
+iostate	sockd_io.c	/^iostate_t iostate;$/;"	v
+iostats	sockd_udp.c	/^struct iostats {$/;"	s	file:
+iostats	sockd_udp.c	/^} iostats;$/;"	v	typeref:struct:iostats
+iov	sockd_io.c	/^sockd_io_t   iov[SOCKD_IOMAX];   \/* each child has these ios. *\/$/;"	v
+ipv4	shmem.c	/^      struct in_addr  ipv4;$/;"	m	union:__anon4::__anon5	typeref:struct:__anon4::__anon5::in_addr	file:
+ipv6	shmem.c	/^      struct in6_addr ipv6;$/;"	m	union:__anon4::__anon5	typeref:struct:__anon4::__anon5::in6_addr	file:
+isreplycommandonly	serverconfig.c	/^isreplycommandonly(command)$/;"	f
+keydata2string	shmem.c	/^keydata2string(keydata, buf, buflen)$/;"	f	file:
+keystate_clientcount	shmem.c	/^keystate_clientcount(keystate, index)$/;"	f	file:
+keystate_closemap	shmem.c	/^keystate_closemap(id, keystate, mappedsize, changedindex)$/;"	f
+keystate_data	shmem.c	/^keystate_data(keystate, index, keydata)$/;"	f	file:
+keystate_data_t	shmem.c	/^} keystate_data_t;$/;"	t	typeref:struct:__anon4	file:
+keystate_data_type	shmem.c	/^typedef enum { keytype_ipv4 = 1, keytype_ipv6 } keystate_data_type;$/;"	t	typeref:enum:__anon3	file:
+keystate_hasexpired	shmem.c	/^keystate_hasexpired(shmem, keyindex, timenow)$/;"	f
+keystate_index	shmem.c	/^keystate_index(shmem, cinfo, doexpirescan)$/;"	f
+keystate_openmap	shmem.c	/^keystate_openmap(id, keystate, sizemapped)$/;"	f
+keystate_removeindex	shmem.c	/^keystate_removeindex(keystate, index)$/;"	f	file:
+keystate_timer	shmem.c	/^keystate_timer(shmem)$/;"	f	file:
+keytype_ipv4	shmem.c	/^typedef enum { keytype_ipv4 = 1, keytype_ipv6 } keystate_data_type;$/;"	e	enum:__anon3	file:
+keytype_ipv6	shmem.c	/^typedef enum { keytype_ipv4 = 1, keytype_ipv6 } keystate_data_type;$/;"	e	enum:__anon3	file:
+lastprivelege	privileges.c	/^static privilege_t lastprivelege = SOCKD_PRIV_NOTSET;$/;"	v	file:
+ldap_user_is_cached	ldap.c	/^ldap_user_is_cached(username)$/;"	f
+ldapcachesetup	ldap.c	/^ldapcachesetup(void)$/;"	f
+ldapgroupmatch	accesscheck.c	/^ldapgroupmatch(auth, rule)$/;"	f
+ldapgroupmatches	ldap.c	/^ldapgroupmatches(username, userdomain, group, groupdomain, rule)$/;"	f
+len	ldap.c	/^   unsigned len;               \/* set to length of result.                    *\/$/;"	m	struct:sasl_interact	file:
+level	sockd_socket.c	/^   int               level;$/;"	m	struct:__anon2	file:
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libwrap_hosts_access	rule.c	/^libwrap_hosts_access(request, peer)$/;"	f	file:
+libwrapinit	rule.c	/^libwrapinit(s, local, peer, request)$/;"	f	file:
+licensekey2string	checkmodule.c	/^licensekey2string(key)$/;"	f
+linkedsize	shmemconfig.c	/^linkedsize(list)$/;"	f	file:
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+log_bind_failed	fmt_sockd.c	/^log_bind_failed(function, protocol, address)$/;"	f
+log_boundexternaladdress	fmt_sockd.c	/^log_boundexternaladdress(function, addr)$/;"	f
+log_clientsend	fmt_sockd.c	/^log_clientsend(client, child, isresend)$/;"	f
+log_inheritable	rule.c	/^log_inheritable(prefix, rule, shmid, settings, inheritable)$/;"	f	file:
+log_noclientrecv	fmt_sockd.c	/^log_noclientrecv(child)$/;"	f
+log_probablytimedout	fmt_sockd.c	/^log_probablytimedout(client, child)$/;"	f
+log_ruleinfo_shmid	fmt_sockd.c	/^log_ruleinfo_shmid(rule, function, context)$/;"	f
+log_rusage	mother_util.c	/^log_rusage(childtype, pid, rusage)$/;"	f
+log_sendfailed	fmt_sockd.c	/^log_sendfailed(client, s, child, isfirsttime)$/;"	f
+log_shmeminherit	rule.c	/^log_shmeminherit(from, to, type, isoverride)$/;"	f	file:
+log_truncatedudp	fmt_sockd.c	/^log_truncatedudp(function, from, len)$/;"	f
+log_unexpected_udprecv_error	fmt_sockd.c	/^log_unexpected_udprecv_error(function, fd, error, side)$/;"	f
+logdisconnect	sockd_negotiate.c	/^logdisconnect(s, neg, op, src, dst, buf, buflen)$/;"	f	file:
+main	sockd.c	/^main(argc, argv)$/;"	f
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+maxfreeslots	sockd_child.c	/^maxfreeslots(childtype)$/;"	f
+medtv	math.c	/^medtv(struct timeval *tvarr, size_t tvsize)$/;"	f
+mem2shmem	shmem.c	/^mem2shmem(config, firstid)$/;"	f	file:
+memleft	shmemconfig.c	/^memleft(void)$/;"	f	file:
+memleft_no_alignment_luck	shmemconfig.c	/^memleft_no_alignment_luck(void)$/;"	f	file:
+method_gssapi	method_gssapi.c	/^method_gssapi(s, request, state)$/;"	f
+method_uname	method_uname.c	/^method_uname(s, request, state)$/;"	f
+methodnegotiate	sockd_protocol.c	/^methodnegotiate(s, request, state)$/;"	f	file:
+mkdir_p	Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(SHELL) $(install_sh) -d$/;"	m
+module_bandwidth_keyc	bandwidth_key.c	/^const size_t       module_bandwidth_keyc  = 0;$/;"	v
+module_bandwidth_keyv	bandwidth_key.c	/^const licensekey_t *module_bandwidth_keyv = NULL;$/;"	v
+module_bandwidth_version	bandwidth.c	/^const char module_bandwidth_version[] =$/;"	v
+module_ldap_keyc	ldap_key.c	/^const size_t       module_ldap_keyc  = 0;$/;"	v
+module_ldap_keyv	ldap_key.c	/^const licensekey_t *module_ldap_keyv = NULL;$/;"	v
+module_ldap_version	ldap.c	/^const char module_ldap_version[] =$/;"	v
+module_redirect_keyc	redirect_key.c	/^const size_t       module_redirect_keyc  = 0;$/;"	v
+module_redirect_keyv	redirect_key.c	/^const licensekey_t *module_redirect_keyv = NULL;$/;"	v
+module_redirect_version	redirect.c	/^const char module_redirect_version[] =$/;"	v
+monitor_detachfromlist	monitor.c	/^monitor_detachfromlist(head)$/;"	f
+monitor_move	monitor.c	/^monitor_move(oldmonitor, newmonitor, sidesconnected, cinfo, lock)$/;"	f
+monitor_postconfigload	monitor.c	/^monitor_postconfigload(void)$/;"	f
+monitor_preconfigload	monitor.c	/^monitor_preconfigload(void)$/;"	f
+monitor_unuse	monitor.c	/^monitor_unuse(mstats, cinfo, lock)$/;"	f
+monitor_use	monitor.c	/^monitor_use(mstats, cinfo, lock)$/;"	f
+monitorc	monitor.c	/^   size_t         monitorc;        \/* number of monitors we are monitoring.   *\/$/;"	m	struct:__anon6	file:
+monitorc	sockd_child.c	/^static size_t monitorc;$/;"	v	file:
+monitormatch	monitor.c	/^monitormatch(src, dst, auth, state)$/;"	f
+monitorv	sockd_child.c	/^static sockd_child_t *monitorv;          \/* all our monitorchildren.          *\/$/;"	v	file:
+mother_envsetup	mother_util.c	/^mother_envsetup(void)$/;"	f
+mother_getlimitinfo	mother_util.c	/^mother_getlimitinfo(void)$/;"	f
+mother_postconfigload	mother_util.c	/^mother_postconfigload(void)$/;"	f
+mother_preconfigload	mother_util.c	/^mother_preconfigload(void)$/;"	f
+neg_allocated	sockd_negotiate.c	/^neg_allocated(void)$/;"	f	file:
+neg_clearset	sockd_negotiate.c	/^neg_clearset(neg, set)$/;"	f	file:
+neg_completed	sockd_negotiate.c	/^neg_completed(count)$/;"	f	file:
+neg_fillset	sockd_negotiate.c	/^neg_fillset(set, skipcompleted, skipinprogress)$/;"	f	file:
+neg_getset	sockd_negotiate.c	/^neg_getset(set)$/;"	f	file:
+neg_gettimedout	sockd_negotiate.c	/^neg_gettimedout(const struct timeval *tnow)$/;"	f	file:
+neg_gettimeout	sockd_negotiate.c	/^neg_gettimeout(timeout)$/;"	f	file:
+negc	sockd_negotiate.c	/^static const size_t negc = ELEMENTS(negv);$/;"	v	file:
+negchildc	sockd_child.c	/^static size_t negchildc;$/;"	v	file:
+negchildv	sockd_child.c	/^static sockd_child_t *negchildv;         \/* all our negotiatorchildren        *\/$/;"	v	file:
+negotiate_postconfigload	sockd_negotiate.c	/^negotiate_postconfigload(void)$/;"	f
+negotiate_preconfigload	sockd_negotiate.c	/^negotiate_preconfigload(void)$/;"	f
+negv	sockd_negotiate.c	/^static sockd_negotiate_t negv[SOCKD_NEGOTIATEMAX];$/;"	v	file:
+nextchild	sockd_child.c	/^nextchild(type, protocol)$/;"	f
+numeric2cpupolicy	cpupolicy.c	/^numeric2cpupolicy(int value)$/;"	f
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+op2string	monitor.c	/^op2string(op)$/;"	f	file:
+optlen	sockd_socket.c	/^   size_t            optlen;$/;"	m	struct:__anon2	file:
+optname	sockd_socket.c	/^   int               optname;$/;"	m	struct:__anon2	file:
+optval	sockd_socket.c	/^   int               optval;$/;"	m	struct:__anon2	file:
+pam_conversation	auth_pam.c	/^pam_conversation(msgc, msgv, rspv, authdata)$/;"	f	file:
+pam_passwordcheck	auth_pam.c	/^pam_passwordcheck(s, src, dst, auth, emsg, emsgsize)$/;"	f
+passwordcheck	auth_password.c	/^passwordcheck(name, cleartextpw, emsg, emsglen)$/;"	f
+passworddbisunique	method_uname.c	/^passworddbisunique(void)$/;"	f	file:
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m
+pidismother	sockd_util.c	/^pidismother(pid)$/;"	f
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/dante$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/dante$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/dante$/;"	m
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/dante$/;"	m
+pointer_copy	shmemconfig.c	/^pointer_copy(src, srcoffset, dst, mem, memsize)$/;"	f
+pointer_copyorsize	shmemconfig.c	/^pointer_copyorsize(op, src, srcoffset, dst, mem, memsize)$/;"	f	file:
+pointer_size	shmemconfig.c	/^pointer_size(config)$/;"	f
+poolinit	shmemconfig.c	/^poolinit(pool, size)$/;"	f	file:
+prefix	Makefile	/^prefix = \/usr\/local\/dante$/;"	m
+proctitleupdate	monitor.c	/^proctitleupdate(void)$/;"	f	file:
+proctitleupdate	sockd_io.c	/^proctitleupdate(void)$/;"	f	file:
+proctitleupdate	sockd_negotiate.c	/^proctitleupdate(void)$/;"	f	file:
+proctitleupdate	sockd_request.c	/^proctitleupdate(from)$/;"	f	file:
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+prompt	ldap.c	/^   const char *prompt;         \/* presented to user (e.g. "Username: ").      *\/$/;"	m	struct:sasl_interact	file:
+protocol_matches	rule.c	/^protocol_matches(protocol, protocols)$/;"	f
+proxyprotocol_matches	rule.c	/^proxyprotocol_matches(protocol, protocols)$/;"	f
+psdir	Makefile	/^psdir = ${docdir}$/;"	m
+rawsocket	sockd_io.c	/^int rawsocket = -1;$/;"	v
+rawsocket_recv	sockd_icmp.c	/^rawsocket_recv(s, ioc, iov)$/;"	f
+rcsid	accesscheck.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	auth_bsd.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	auth_pam.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	auth_password.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	bandwidth.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	bandwidth_key.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	checkmodule.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	cpu.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	cpuaffinity.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	cpupolicy.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	dante_udp.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	fmt_sockd.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	getoutaddr.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	ldap.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	ldap_key.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	ldap_util.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	math.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	method_gssapi.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	method_uname.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	monitor.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	monitor_util.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	mother_util.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	privileges.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	redirect.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	redirect_key.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	rule.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	serverconfig.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	session.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	shmem.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	shmemconfig.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	sockd.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	sockd_child.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	sockd_icmp.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	sockd_io.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	sockd_io_misc.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	sockd_negotiate.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	sockd_protocol.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	sockd_request.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	sockd_socket.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	sockd_tcp.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	sockd_udp.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	sockd_util.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	statistics.c	/^static const char rcsid[] =$/;"	v	file:
+rcsid	udp_port.c	/^static const char rcsid[] =$/;"	v	file:
+recv_address	sockd_protocol.c	/^recv_address(s, request, state)$/;"	f	file:
+recv_atyp	sockd_protocol.c	/^recv_atyp(s, request, state)$/;"	f	file:
+recv_clientrequest	sockd_protocol.c	/^recv_clientrequest(s, request, state)$/;"	f
+recv_cmd	sockd_protocol.c	/^recv_cmd(s, request, state)$/;"	f	file:
+recv_domain	sockd_protocol.c	/^recv_domain(s, request, state)$/;"	f	file:
+recv_flag	sockd_protocol.c	/^recv_flag(s, request, state)$/;"	f	file:
+recv_gssapi_auth_len	method_gssapi.c	/^recv_gssapi_auth_len(s, request, state)$/;"	f	file:
+recv_gssapi_auth_token	method_gssapi.c	/^recv_gssapi_auth_token(s, request, state)$/;"	f	file:
+recv_gssapi_auth_type	method_gssapi.c	/^recv_gssapi_auth_type(s, request, state)$/;"	f	file:
+recv_gssapi_auth_ver	method_gssapi.c	/^recv_gssapi_auth_ver(s, request, state)$/;"	f	file:
+recv_gssapi_enc_len	method_gssapi.c	/^recv_gssapi_enc_len(s, request, state)$/;"	f	file:
+recv_gssapi_enc_token	method_gssapi.c	/^recv_gssapi_enc_token(s, request, state)$/;"	f	file:
+recv_gssapi_enc_type	method_gssapi.c	/^recv_gssapi_enc_type(s, request, state)$/;"	f	file:
+recv_gssapi_enc_ver	method_gssapi.c	/^recv_gssapi_enc_ver(s, request, state)$/;"	f	file:
+recv_gssapi_packet	method_gssapi.c	/^recv_gssapi_packet(s, request, state)$/;"	f	file:
+recv_gssapi_packet_len	method_gssapi.c	/^recv_gssapi_packet_len(s, request, state)$/;"	f	file:
+recv_gssapi_packet_token	method_gssapi.c	/^recv_gssapi_packet_token(s, request, state)$/;"	f	file:
+recv_gssapi_packet_type	method_gssapi.c	/^recv_gssapi_packet_type(s, request, state)$/;"	f	file:
+recv_gssapi_packet_ver	method_gssapi.c	/^recv_gssapi_packet_ver(s, request, state)$/;"	f	file:
+recv_io	sockd_io.c	/^recv_io(s, io)$/;"	f
+recv_methods	sockd_protocol.c	/^recv_methods(s, request, state)$/;"	f	file:
+recv_negotiate	sockd_negotiate.c	/^recv_negotiate(void)$/;"	f	file:
+recv_passwd	method_uname.c	/^recv_passwd(s, request, state)$/;"	f	file:
+recv_plen	method_uname.c	/^recv_plen(s, request, state)$/;"	f	file:
+recv_port	sockd_protocol.c	/^recv_port(s, request, state)$/;"	f	file:
+recv_req	sockd_request.c	/^recv_req(s, req)$/;"	f
+recv_resentclient	sockd_io.c	/^recv_resentclient(s, client)$/;"	f
+recv_sockshost	sockd_protocol.c	/^recv_sockshost(s, request, state)$/;"	f	file:
+recv_sockspacket	sockd_protocol.c	/^recv_sockspacket(s, request, state)$/;"	f
+recv_ulen	method_uname.c	/^recv_ulen(s, request, state)$/;"	f	file:
+recv_uname	method_uname.c	/^recv_uname(s, request, state)$/;"	f	file:
+recv_unamever	method_uname.c	/^recv_unamever(s, request, state)$/;"	f	file:
+recv_username	sockd_protocol.c	/^recv_username(s, request, state)$/;"	f	file:
+recv_v4req	sockd_protocol.c	/^recv_v4req (s, request, state)$/;"	f	file:
+recv_v5req	sockd_protocol.c	/^recv_v5req (s, request, state)$/;"	f	file:
+recv_ver	sockd_protocol.c	/^recv_ver(s, request, state)$/;"	f	file:
+redirect	redirect.c	/^redirect(s, addr,$/;"	f
+redirectsetup	redirect.c	/^redirectsetup(void)$/;"	f
+removechild	sockd_child.c	/^removechild(pid)$/;"	f
+replyrulev	sockd_io.c	/^static rule_t replyrulev[SOCKD_IOMAX];$/;"	v	file:
+req	sockd_request.c	/^static struct req {$/;"	s	file:
+reqc	sockd_request.c	/^static const size_t reqc = ELEMENTS(reqv);$/;"	v	file:
+reqchildc	sockd_child.c	/^static size_t reqchildc;$/;"	v	file:
+reqchildv	sockd_child.c	/^static sockd_child_t *reqchildv;         \/* all our requestchildren           *\/$/;"	v	file:
+reqhost_isok	sockd_request.c	/^reqhost_isok(host, cmd, emsg, emsglen)$/;"	f	file:
+request	sockd_request.c	/^   request_t                 request;         \/* request to perform.          *\/$/;"	m	struct:req	file:
+request_isvalid	sockd_request.c	/^   unsigned char             request_isvalid; \/*$/;"	m	struct:req	file:
+request_postconfigload	sockd_request.c	/^request_postconfigload(void)$/;"	f
+request_preconfigload	sockd_request.c	/^request_preconfigload(void)$/;"	f
+reqv	sockd_request.c	/^} reqv[1];$/;"	v	typeref:struct:req	file:
+resetconfig	serverconfig.c	/^resetconfig(config, exiting)$/;"	f
+resetprivileges	privileges.c	/^resetprivileges(void)$/;"	f
+result	ldap.c	/^   const void *result;         \/* set to point to result.                     *\/$/;"	m	struct:sasl_interact	file:
+ro	sockd_udp.c	/^   iostat_t ro;    \/* read-only stats.    *\/$/;"	m	struct:iostats	file:
+rule_inheritoruse	rule.c	/^rule_inheritoruse(from, cinfo_from, to, cinfo_to, sidesconnected, emsg, emsglen)$/;"	f
+ruleaddr_matches_all_external	rule.c	/^ruleaddr_matches_all_external(ruleaddr, protocol)$/;"	f	file:
+rulerequires	rule.c	/^rulerequires(rule, what)$/;"	f
+rulespermit	rule.c	/^rulespermit(s, peer, local, clientauth, srcauth, match, state,$/;"	f
+run_io	sockd_io.c	/^run_io()$/;"	f
+run_monitor	monitor.c	/^run_monitor(void)$/;"	f
+run_negotiate	sockd_negotiate.c	/^run_negotiate()$/;"	f
+run_request	sockd_request.c	/^run_request()$/;"	f
+rw	sockd_udp.c	/^   iostat_t rw;    \/* read\/write stats.   *\/$/;"	m	struct:iostats	file:
+s	sockd_request.c	/^   int                       s;               \/* control-connection to client *\/$/;"	m	struct:req	file:
+sasl_interact	ldap.c	/^typedef struct sasl_interact {$/;"	s	file:
+sasl_interact_t	ldap.c	/^} sasl_interact_t;$/;"	t	typeref:struct:sasl_interact	file:
+sbin_PROGRAMS	Makefile	/^sbin_PROGRAMS = sockd$(EXEEXT)$/;"	m
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+selectmethod	sockd_util.c	/^selectmethod(methodv, methodc, offeredv, offeredc)$/;"	f
+send_client	sockd_child.c	/^send_client(s, _client, buf, buflen)$/;"	f
+send_connectresponse	sockd_protocol.c	/^send_connectresponse(s, error, io)$/;"	f
+send_failure	sockd_protocol.c	/^send_failure(s, response, failure)$/;"	f
+send_icmperror	sockd_icmp.c	/^send_icmperror(s, receivedonaddr, originalpacketsrc, packettarget,$/;"	f
+send_io	sockd_child.c	/^send_io(s, io)$/;"	f
+send_negotiate	sockd_negotiate.c	/^send_negotiate(neg)$/;"	f	file:
+send_req	sockd_child.c	/^send_req(s, req)$/;"	f
+send_response	sockd_protocol.c	/^send_response(s, response)$/;"	f
+serverchain	sockd_request.c	/^serverchain(targetsocket, clientsocket, client, req,$/;"	f	file:
+serverinit	sockd.c	/^serverinit(argc, argv)$/;"	f	file:
+session_isavailable	session.c	/^session_isavailable(shmem, cinfo, lock, mapisopen, emsg, emsglen)$/;"	f	file:
+session_unuse	session.c	/^session_unuse(ss, cinfo, lock)$/;"	f
+session_use	session.c	/^session_use(shmem, cinfo, lock, emsg, emsglen)$/;"	f
+sessionlimitstring	session.c	/^sessionlimitstring(inuse, max, buf, buflen)$/;"	f	file:
+setchildtype	sockd_child.c	/^setchildtype(type, childv, childc, function)$/;"	f	file:
+setcommandprotocol	rule.c	/^setcommandprotocol(type, commands, protocols)$/;"	f
+setsockoptions	sockd_socket.c	/^setsockoptions(s, family, type, isclientside)$/;"	f
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+shmem_idupdate	shmem.c	/^shmem_idupdate(config)$/;"	f
+shmem_setup	shmem.c	/^shmem_setup(void)$/;"	f
+shmem_unuse	shmem.c	/^shmem_unuse(shmem, cinfo, lock)$/;"	f
+shmem_use	shmem.c	/^shmem_use(shmem, cinfo, lock, mapisopen)$/;"	f
+shmem_userule	shmem.c	/^shmem_userule(rule, cinfo, emsg, emsglen)$/;"	f
+shmemcheck	shmem.c	/^shmemcheck(void)$/;"	f
+should_do_expirescan	shmem.c	/^should_do_expirescan(shmem)$/;"	f	file:
+showalarms	monitor.c	/^showalarms(iface)$/;"	f	file:
+showlicense	sockd.c	/^showlicense(void)$/;"	f	file:
+showlist	rule.c	/^showlist(list, prefix)$/;"	f
+showlog	rule.c	/^showlog(log)$/;"	f	file:
+showmonitor	monitor.c	/^showmonitor(_monitor)$/;"	f
+showrule	rule.c	/^showrule(_rule, ruletype)$/;"	f
+showversion	sockd.c	/^showversion(level)$/;"	f	file:
+sigalrm	mother_util.c	/^sigalrm(sig, si, sc)$/;"	f	file:
+sigchildbroadcast	sockd_child.c	/^sigchildbroadcast(sig)$/;"	f
+sigchld	mother_util.c	/^sigchld(sig, si, sc)$/;"	f	file:
+sighup	mother_util.c	/^sighup(sig, si, sc)$/;"	f	file:
+sighup_child	sockd_child.c	/^sighup_child(sig, si, sc)$/;"	f
+siginfo	monitor.c	/^siginfo(sig, si, sc)$/;"	f	file:
+siginfo	mother_util.c	/^siginfo(sig, si, sc)$/;"	f	file:
+siginfo	sockd_io.c	/^siginfo(sig, si, sc)$/;"	f	file:
+siginfo	sockd_negotiate.c	/^siginfo(sig, si, sc)$/;"	f	file:
+siginfo	sockd_request.c	/^siginfo(sig, si, sc)$/;"	f	file:
+sigserverbroadcast	sockd_util.c	/^sigserverbroadcast(sig)$/;"	f
+sigterm	mother_util.c	/^sigterm(sig, si, sc)$/;"	f	file:
+sockd_DEPENDENCIES	Makefile	/^sockd_DEPENDENCIES = Makefile.am _reconf setproctitle.o strlcpy.o strvis.o $(am__append_2)$/;"	m
+sockd_LDADD	Makefile	/^sockd_LDADD = setproctitle.o strlcpy.o strvis.o -lm $/;"	m
+sockd_OBJECTS	Makefile	/^sockd_OBJECTS = $(am_sockd_OBJECTS)$/;"	m
+sockd_SOURCES	Makefile	/^sockd_SOURCES = ..\/lib\/addressmatch.c ..\/lib\/authneg.c ..\/lib\/broken.c \\$/;"	m
+sockd_check_ipclatency	statistics.c	/^sockd_check_ipclatency(description, tsent, treceived, tnow)$/;"	f
+sockd_cpuset_isok	cpuaffinity.c	/^sockd_cpuset_isok(set)$/;"	f
+sockd_getpasswordhash	auth_password.c	/^sockd_getpasswordhash(login, pw, pwsize, emsg, emsglen)$/;"	f	file:
+sockd_getshmemname	shmem.c	/^sockd_getshmemname(id, key)$/;"	f
+sockd_handledsignals	sockd_util.c	/^sockd_handledsignals()$/;"	f
+sockd_initprivs	privileges.c	/^sockd_initprivs(void)$/;"	f
+sockd_mmap	shmem.c	/^sockd_mmap(mapping, size, prot, flags, fd, docreate)$/;"	f
+sockd_motherexists	sockd_util.c	/^sockd_motherexists(void)$/;"	f
+sockd_popsignal	sockd_util.c	/^sockd_popsignal(siginfo_t *siginfo)$/;"	f
+sockd_print_child_ready_message	sockd_child.c	/^sockd_print_child_ready_message(freefds)$/;"	f
+sockd_priv	privileges.c	/^sockd_priv(privilege, op)$/;"	f
+sockd_pushsignal	sockd_util.c	/^sockd_pushsignal(sig, siginfo)$/;"	f
+sockd_readmotherscontrolsocket	fmt_sockd.c	/^sockd_readmotherscontrolsocket(prefix, s)$/;"	f
+sockd_rstonclose	sockd_socket.c	/^sockd_rstonclose(s)$/;"	f
+sockd_setcpusettings	cpu.c	/^sockd_setcpusettings(old, new)$/;"	f
+sockd_seteugid	privileges.c	/^sockd_seteugid(uid, gid)$/;"	f
+sockd_shmat	shmem.c	/^sockd_shmat(rule, objects)$/;"	f
+sockd_shmdt	shmem.c	/^sockd_shmdt(rule, objects)$/;"	f
+sockd_unconnect	sockd_socket.c	/^sockd_unconnect(s, oldpeer)$/;"	f
+sockdexit	sockd_util.c	/^sockdexit(code)$/;"	f
+socketoptions_t	sockd_socket.c	/^} socketoptions_t;$/;"	t	typeref:struct:__anon2	file:
+socks_configtype	sockd.c	/^const int socks_configtype = CONFIGTYPE_SERVER;$/;"	v
+sockscf	serverconfig.c	/^struct config sockscf;        \/* current config.   *\/$/;"	v	typeref:struct:config
+srcdir	Makefile	/^srcdir = .$/;"	m
+srchost_isok	rule.c	/^srchost_isok(peer, msg, msgsize)$/;"	f	file:
+starttime	sockd_request.c	/^   time_t                    starttime;       \/* time we started handling req *\/$/;"	m	struct:req	file:
+state	monitor.c	/^} state;$/;"	v	typeref:struct:__anon6	file:
+stddevtv	math.c	/^stddevtv(struct timeval *tvarr, size_t tvsize, unsigned long avg)$/;"	f
+subdir	Makefile	/^subdir = sockd$/;"	m
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+target_alias	Makefile	/^target_alias = $/;"	m
+textname	sockd_socket.c	/^   char              textname[MAXOPTIONNAME];$/;"	m	struct:__anon2	file:
+throttlelimitstring	session.c	/^throttlelimitstring(starttime, timenow, newclients, currentclients, buf, buflen)$/;"	f	file:
+throttlepermits	session.c	/^throttlepermits(throttle, starttime, newclients, timenow)$/;"	f	file:
+timetillcheck	monitor.c	/^timetillcheck(monitor, tnow, tfirstcheck, hastimedout)$/;"	f	file:
+top_build_prefix	Makefile	/^top_build_prefix = ..\/$/;"	m
+top_builddir	Makefile	/^top_builddir = ..$/;"	m
+top_srcdir	Makefile	/^top_srcdir = ..$/;"	m
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+type	shmem.c	/^   keystate_data_type type;$/;"	m	struct:__anon4	file:
+udphdr_uh_dport	udp_port.c	/^udphdr_uh_dport(struct udphdr *udp)$/;"	f
+udphdr_uh_sport	udp_port.c	/^udphdr_uh_sport(struct udphdr *udp)$/;"	f
+udphdr_uh_sum	udp_port.c	/^udphdr_uh_sum(struct udphdr *udp)$/;"	f
+udphdr_uh_ulen	udp_port.c	/^udphdr_uh_ulen(struct udphdr *udp)$/;"	f
+udptargetv	sockd_io.c	/^udptarget_t udptargetv[SOCKD_IOMAX][2];$/;"	v
+unexpecteddeath	mother_util.c	/^unexpecteddeath(void)$/;"	f	file:
+usage	sockd.c	/^usage(code)$/;"	f	file:
+usermatch	accesscheck.c	/^usermatch(auth, userlist)$/;"	f
+wantprivileges	sockd_socket.c	/^   unsigned char     wantprivileges;$/;"	m	struct:__anon2	file:

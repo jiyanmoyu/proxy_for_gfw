@@ -1,0 +1,6 @@
+libdsocks_la-int_osf3.lo: int_osf3.c ../include/autoconf.h \
+ ../include/redefac.h
+
+../include/autoconf.h:
+
+../include/redefac.h:
