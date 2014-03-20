@@ -1,0 +1,782 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+01	doc/FAQ.html	/^<A name="01"> <\/A>$/;"	a
+02	doc/FAQ.html	/^<A name="02"> <\/A>$/;"	a
+03	doc/FAQ.html	/^<A name="03"> <\/A>$/;"	a
+04	doc/FAQ.html	/^<A name="04"> <\/A>$/;"	a
+05	doc/FAQ.html	/^<A name="05"> <\/A>$/;"	a
+06	doc/FAQ.html	/^<A name="06"> <\/A>$/;"	a
+07	doc/FAQ.html	/^<A name="07"> <\/A>$/;"	a
+08	doc/FAQ.html	/^<A name="08"> <\/A>$/;"	a
+09	doc/FAQ.html	/^<A name="09"> <\/A>$/;"	a
+10	doc/FAQ.html	/^<A name="10"> <\/A>$/;"	a
+11	doc/FAQ.html	/^<A name="11"> <\/A>$/;"	a
+12	doc/FAQ.html	/^<A name="12"> <\/A>$/;"	a
+COUNTOF	src/DwWinSvc.c	66;"	d	file:
+DUENDE_CHROOT_DIR	tools/duende.c	52;"	d	file:
+DUENDE_LOGGER_UID	tools/duende.c	47;"	d	file:
+DWM_D_root_servers	src/DwMararc.h	38;"	d
+DWM_D_upstream_servers	src/DwMararc.h	37;"	d
+DWM_MAX_PATTERNS	src/DwMararc.h	194;"	d
+DWM_MAX_STATES	src/DwMararc.h	192;"	d
+DWM_N_deliver_all	src/DwMararc.h	62;"	d
+DWM_N_dns_port	src/DwMararc.h	43;"	d
+DWM_N_filter_rfc1918	src/DwMararc.h	63;"	d
+DWM_N_handle_noreply	src/DwMararc.h	46;"	d
+DWM_N_handle_overload	src/DwMararc.h	45;"	d
+DWM_N_hash_magic_number	src/DwMararc.h	49;"	d
+DWM_N_maradns_gid	src/DwMararc.h	52;"	d
+DWM_N_maradns_uid	src/DwMararc.h	51;"	d
+DWM_N_max_ar_chain	src/DwMararc.h	59;"	d
+DWM_N_max_inflights	src/DwMararc.h	61;"	d
+DWM_N_max_tcp_procs	src/DwMararc.h	56;"	d
+DWM_N_max_ttl	src/DwMararc.h	70;"	d
+DWM_N_maximum_cache_elements	src/DwMararc.h	50;"	d
+DWM_N_maxprocs	src/DwMararc.h	41;"	d
+DWM_N_min_ttl_incomplete_cname	src/DwMararc.h	69;"	d
+DWM_N_ns_glueless_type	src/DwMararc.h	64;"	d
+DWM_N_num_retries	src/DwMararc.h	54;"	d
+DWM_N_recurse_min_bind_port	src/DwMararc.h	47;"	d
+DWM_N_recurse_number_ports	src/DwMararc.h	48;"	d
+DWM_N_reject_aaaa	src/DwMararc.h	65;"	d
+DWM_N_reject_mx	src/DwMararc.h	66;"	d
+DWM_N_reject_ptr	src/DwMararc.h	68;"	d
+DWM_N_resurrections	src/DwMararc.h	53;"	d
+DWM_N_tcp_listen	src/DwMararc.h	58;"	d
+DWM_N_timeout_seconds	src/DwMararc.h	42;"	d
+DWM_N_timeout_seconds_tcp	src/DwMararc.h	57;"	d
+DWM_N_truncation_hack	src/DwMararc.h	67;"	d
+DWM_N_ttl_age	src/DwMararc.h	60;"	d
+DWM_N_upstream_port	src/DwMararc.h	44;"	d
+DWM_N_verbose_level	src/DwMararc.h	55;"	d
+DWM_S_bind_address	src/DwMararc.h	28;"	d
+DWM_S_cache_file	src/DwMararc.h	33;"	d
+DWM_S_chroot_dir	src/DwMararc.h	30;"	d
+DWM_S_ip_blacklist	src/DwMararc.h	34;"	d
+DWM_S_ipv4_bind_addresses	src/DwMararc.h	29;"	d
+DWM_S_random_seed_file	src/DwMararc.h	32;"	d
+DWM_S_recursive_acl	src/DwMararc.h	31;"	d
+DWR_BELTCOL	src/DwRadioGatun.h	34;"	d
+DWR_BELTFEED	src/DwRadioGatun.h	35;"	d
+DWR_BELTROWS	src/DwRadioGatun.h	33;"	d
+DWR_MILLSIZE	src/DwRadioGatun.h	32;"	d
+DWR_WORD	src/DwRadioGatun.h	28;"	d
+DWR_WORDSIZE	src/DwRadioGatun.h	29;"	d
+DW_MAXIPS	src/DwSocket.h	89;"	d
+DW_MINTIME	src/DwSys.h	36;"	d
+DW_UID	src/DwSys.h	35;"	d
+EINPROGRESS	src/DwSocket.h	73;"	d
+EXAMPLE_COM_A	src/DwCompress.c	968;"	d	file:
+EXAMPLE_COM_Q	src/DwCompress.c	966;"	d	file:
+EXECFILE_DIR	src/DwMararc.h	81;"	d
+FD_SETSIZE	src/DwSocket.h	58;"	d
+Family	src/DwSocket.h	135;"	d
+GLUE_RANGE	src/DwRecurse.h	67;"	d
+HEADER	src/RandomPrime.c	24;"	d	file:
+HOSTCC	src/Makefile	/^HOSTCC=$(CC)$/;"	m
+INVALID_SOCKET	src/DwSocket.h	83;"	d
+KEY_D_COUNT	src/DwMararc.h	75;"	d
+KEY_N_COUNT	src/DwMararc.h	77;"	d
+KEY_S_COUNT	src/DwMararc.h	73;"	d
+LOG	src/DwSys.c	/^FILE *LOG = 0;$/;"	v
+MARARC_C	src/DwMararc.c	19;"	d	file:
+MSG_DONTWAIT	src/DwSocket.h	47;"	d
+MSG_DONTWAIT	src/DwSocket.h	78;"	d
+MUL_CONSTANT	src/DwRandPrime.h	3;"	d
+NO_INET_PTON	src/DwSocket.h	70;"	d
+OBJS	src/Makefile	/^OBJS=DwStr.o \\$/;"	m
+PA	src/DwCompress.c	973;"	d	file:
+PACKET_LEN	sqa/sqa_roy_arends/sendpacket-arends.c	34;"	d	file:
+PQ	src/DwCompress.c	974;"	d	file:
+ROOT_SERVERS	src/DwSocket.h	24;"	d
+RRX_AAAA_GLUE_NS	src/DwRecurse.h	54;"	d
+RRX_ANSWER_IN_AR	src/DwRecurse.h	59;"	d
+RRX_A_GLUE_NS	src/DwRecurse.h	53;"	d
+RRX_END_OF_LIST	src/DwRecurse.h	46;"	d
+RRX_FIRST_AAAA_GLUE	src/DwRecurse.h	63;"	d
+RRX_FIRST_A_GLUE	src/DwRecurse.h	65;"	d
+RRX_FULL_GLUE_NS	src/DwRecurse.h	55;"	d
+RRX_GLUELESS_NS	src/DwRecurse.h	52;"	d
+RRX_IGNORE	src/DwRecurse.h	57;"	d
+RRX_INFINITY	src/DwRecurse.h	47;"	d
+RRX_LAST_AAAA_GLUE	src/DwRecurse.h	64;"	d
+RRX_LAST_A_GLUE	src/DwRecurse.h	66;"	d
+RRX_NS_MASK	src/DwRecurse.h	51;"	d
+RRX_OOB_NS	src/DwRecurse.h	58;"	d
+RR_A	src/DwRecurse.h	38;"	d
+RR_AAAA	src/DwRecurse.h	43;"	d
+RR_ANY	src/DwRecurse.h	44;"	d
+RR_CNAME	src/DwRecurse.h	40;"	d
+RR_MX	src/DwRecurse.h	42;"	d
+RR_NS	src/DwRecurse.h	39;"	d
+RR_SOA	src/DwRecurse.h	41;"	d
+SCKT_ERR	src/DwSocket.h	75;"	d
+SCKT_ERR	src/DwSocket.h	81;"	d
+SOCKET	sqa/dwood2rc_n_max_inflights/microdns_delay.c	30;"	d	file:
+SOCKET	sqa/sqa_bigpacket/send_packet_stdin.c	33;"	d	file:
+SOCKET	sqa/sqa_bigpacket/show_packet_stdout.c	34;"	d	file:
+SOCKET	sqa/sqa_bigpacket/truncated.c	30;"	d	file:
+SOCKET	sqa/sqa_easydns_bad_truncation/simulate_easydns.c	30;"	d	file:
+SOCKET	sqa/sqa_root_upstream/microdns_rd_must_be_clear.c	30;"	d	file:
+SOCKET	sqa/sqa_root_upstream/microdns_rd_must_be_set.c	30;"	d	file:
+SOCKET	sqa/sqa_roy_arends/sendpacket-arends.c	30;"	d	file:
+SOCKET	sqa/sqa_server_fail/microdns.c	30;"	d	file:
+SOCKET	sqa/sqa_server_fail/microdns_server_fail.c	30;"	d	file:
+SOCKET	sqa/sqa_tcp_buffering/send_packet_stdin.c	33;"	d	file:
+SOCKET	sqa/sqa_tcp_buffering/show_packet_stdout.c	34;"	d	file:
+SOCKET	sqa/sqa_tcp_buffering/truncated.c	30;"	d	file:
+SOCKET	sqa/sqa_tcp_buffering_2/send_packet_stdin.c	33;"	d	file:
+SOCKET	sqa/sqa_tcp_buffering_2/show_packet_stdout.c	34;"	d	file:
+SOCKET	sqa/sqa_tcp_buffering_2/truncated.c	30;"	d	file:
+SOCKET	sqa/sqa_ttl_expire/microdns-timestamp.c	31;"	d	file:
+SOCKET	src/DwSocket.h	82;"	d
+TCP_BUFFERSIZE	src/DwTcpSocket.c	27;"	d	file:
+TYPE_ANSWER	src/DwRecurse.h	70;"	d
+TYPE_ANSWER_IN_AR	src/DwRecurse.h	81;"	d
+TYPE_CNAME_REFER	src/DwRecurse.h	76;"	d
+TYPE_DW_HASH	src/DwRecurse.h	87;"	d
+TYPE_DW_STRING	src/DwRecurse.h	86;"	d
+TYPE_ERROR	src/DwRecurse.h	79;"	d
+TYPE_FLOAT128	src/DwRecurse.h	101;"	d
+TYPE_FLOAT16	src/DwRecurse.h	98;"	d
+TYPE_FLOAT32	src/DwRecurse.h	99;"	d
+TYPE_FLOAT64	src/DwRecurse.h	100;"	d
+TYPE_INT128	src/DwRecurse.h	97;"	d
+TYPE_INT16	src/DwRecurse.h	91;"	d
+TYPE_INT32	src/DwRecurse.h	93;"	d
+TYPE_INT64	src/DwRecurse.h	95;"	d
+TYPE_INT8	src/DwRecurse.h	89;"	d
+TYPE_NOT_THERE	src/DwRecurse.h	72;"	d
+TYPE_NO_USEFUL_DATA	src/DwRecurse.h	78;"	d
+TYPE_NS_REFER	src/DwRecurse.h	75;"	d
+TYPE_NXDOMAIN	src/DwRecurse.h	71;"	d
+TYPE_SERVER_TIMEOUT	src/DwRecurse.h	77;"	d
+TYPE_TRUNCATED	src/DwRecurse.h	73;"	d
+TYPE_TRUNCATED_NXDOMAIN	src/DwRecurse.h	74;"	d
+TYPE_UINT128	src/DwRecurse.h	96;"	d
+TYPE_UINT16	src/DwRecurse.h	90;"	d
+TYPE_UINT32	src/DwRecurse.h	92;"	d
+TYPE_UINT64	src/DwRecurse.h	94;"	d
+TYPE_UINT8	src/DwRecurse.h	88;"	d
+TYPE_UPSTREAM_REFER	src/DwRecurse.h	80;"	d
+V4	src/DwSocket.h	133;"	d
+V6	src/DwSocket.h	134;"	d
+VERSION	src/version.h	1;"	d
+__DWDNSSTR_H_DEFINED__	src/DwDnsStr.h	20;"	d
+__DWHASH_H_DEFINED__	src/DwHash.h	20;"	d
+__DWRADIOGATUN_H_DEFINED__	src/DwRadioGatun.h	20;"	d
+__DWRECURSE_H_DEFINED__	src/DwRecurse.h	20;"	d
+__DWSTR_DEFINED__	src/DwStr.h	20;"	d
+__DWSYS_H_DEFINED__	src/DwSys.h	20;"	d
+__DW_SOCKET_DEFINED__	src/DwSocket.h	20;"	d
+__MARARC_H_DEFINED__	src/DwMararc.h	20;"	d
+action	src/DwMararc.h	/^        char action[DWM_MAX_PATTERNS + 1];$/;"	m	struct:__anon12
+action	src/DwSocket.h	/^        dw_str *action; \/* Used for (cached) incomplete CNAMEs *\/$/;"	m	struct:__anon8
+add_constant	src/DwHash.c	/^uint32_t add_constant = 0x74fc65a2;$/;"	v
+alarm_handler	src/DwHash.c	/^void alarm_handler() {$/;"	f
+an	src/DwDnsStr.h	/^        uint16_t *an; \/* Answers *\/$/;"	m	struct:__anon3
+an_types	src/DwRecurse.h	/^        int8_t *an_types;$/;"	m	struct:__anon13
+ancount	src/DwDnsStr.h	/^        int32_t ancount;$/;"	m	struct:__anon3
+ar	src/DwDnsStr.h	/^        uint16_t *ar; \/* Additional answers *\/$/;"	m	struct:__anon3
+ar_types	src/DwRecurse.h	/^        int8_t *ar_types;$/;"	m	struct:__anon13
+arcount	src/DwDnsStr.h	/^        int32_t arcount;$/;"	m	struct:__anon3
+b_local	src/DwSocket.c	/^SOCKET b_local[DW_MAXIPS + 1];$/;"	v
+b_remote	src/DwSocket.c	/^SOCKET *b_remote;$/;"	v
+belt	src/DwRadioGatun.h	/^        DWR_WORD *belt;$/;"	m	struct:__anon1
+bigloop	src/DwSocket.c	/^int bigloop() {$/;"	f
+bind_address	src/DwSocket.c	/^ip_addr_T bind_address[DW_MAXIPS + 1];$/;"	v
+bind_all_tcp	src/DwTcpSocket.c	/^int bind_all_tcp() {$/;"	f
+bind_all_udp	src/DwUdpSocket.c	/^int bind_all_udp() {$/;"	f
+bind_set_dns	src/DwSocket.c	/^SOCKET bind_set_dns(ip_addr_T *ip, sockaddr_all_T *dns_do, int type) {$/;"	f
+blacklist_dict	src/DwSocket.c	/^dwd_dict *blacklist_dict = 0;$/;"	v
+buffer	src/DwSocket.h	/^        char *buffer;$/;"	m	struct:__anon10
+buffer	src/DwSocket.h	/^        char *buffer;$/;"	m	struct:__anon11
+buffer_len	src/DwSocket.h	/^        ssize_t buffer_len;$/;"	m	struct:__anon10
+buffer_socket	src/DwSocket.h	/^        SOCKET buffer_socket;$/;"	m	struct:__anon10
+cache	src/DwSys.c	/^dw_hash *cache = 0;$/;"	v
+cache_dns_reply	src/DwUdpSocket.c	/^int cache_dns_reply(unsigned char *packet, int count, int b, int truncated) {$/;"	f
+cache_size	src/DwHash.c	/^int32_t cache_size = 0;$/;"	v
+calc_dns_len	sqa/sqa_bigpacket/send_packet_stdin.c	66;"	d	file:
+calc_dns_len	sqa/sqa_bigpacket/show_packet_stdout.c	67;"	d	file:
+calc_dns_len	sqa/sqa_tcp_buffering/send_packet_stdin.c	66;"	d	file:
+calc_dns_len	sqa/sqa_tcp_buffering/show_packet_stdout.c	67;"	d	file:
+calc_dns_len	sqa/sqa_tcp_buffering_2/send_packet_stdin.c	66;"	d	file:
+calc_dns_len	sqa/sqa_tcp_buffering_2/show_packet_stdout.c	67;"	d	file:
+check_ip_acl	src/DwSocket.c	/^int check_ip_acl(ip_addr_T *ip) {$/;"	f
+child_id	src/DwSocket.h	/^        int child_id;$/;"	m	struct:__anon9
+closesocket	src/DwSocket.h	84;"	d
+count	src/DwHash.c	/^uint32_t count = 0;$/;"	v
+current_ns	src/DwSocket.h	/^        int8_t current_ns;$/;"	m	struct:__anon9
+dec_a	src/DwSocket.c	811;"	d	file:
+die	src/DwSocket.h	/^        int64_t die;$/;"	m	struct:__anon10
+die	src/DwSocket.h	/^        int64_t die;$/;"	m	struct:__anon11
+die	src/DwSocket.h	/^        int64_t die;$/;"	m	struct:__anon9
+dmain	src/DwWinSvc.c	/^int dmain(int argc, char **argv) {$/;"	f
+dns_details	src/DwRecurse.h	/^} dns_details;$/;"	t	typeref:struct:__anon13
+dns_port	src/DwSocket.c	/^int dns_port = 53;$/;"	v
+dns_string	src/DwDnsStr.h	/^} dns_string;$/;"	t	typeref:struct:__anon3
+do_bind	src/DwSocket.c	/^SOCKET do_bind(ip_addr_T *ip,int type) {$/;"	f
+do_random_bind	src/DwUdpSocket.c	/^int do_random_bind(SOCKET s, int len) {$/;"	f
+do_read_cache	src/DwSys.c	/^int do_read_cache = 1;$/;"	v
+dont_block	src/DwSocket.c	/^u_long dont_block = 0;$/;"	v
+dw_addchar	src/DwStr.c	/^int dw_addchar(uint8_t add, dw_str *object) {$/;"	f
+dw_alog_3strings	src/DwSys.c	/^void dw_alog_3strings(char *s1, char *s2, char *s3) {$/;"	f
+dw_alog_number	src/DwSys.c	/^void dw_alog_number(char *s1, int number, char *s2) {$/;"	f
+dw_append	src/DwStr.c	/^int dw_append(dw_str *toappend, dw_str *target) {$/;"	f
+dw_assert_sanity	src/DwStr.c	/^int dw_assert_sanity(dw_str *object) {$/;"	f
+dw_atoi	src/DwStr.c	/^int32_t dw_atoi(dw_str *obj, int32_t index, int base) {$/;"	f
+dw_bin_append	src/DwStr.c	/^int dw_bin_append(uint8_t *add, int len, dw_str *object) {$/;"	f
+dw_cachepacket_to_ancount	src/DwStr.c	/^int32_t dw_cachepacket_to_ancount(dw_str *packet) {$/;"	f
+dw_copy	src/DwStr.h	41;"	d
+dw_create	src/DwStr.c	/^dw_str *dw_create(uint32_t size) {$/;"	f
+dw_cstr_append	src/DwStr.c	/^int dw_cstr_append(uint8_t *add, int32_t len, dw_str *obj) {$/;"	f
+dw_destroy	src/DwStr.c	/^int dw_destroy(dw_str *object) {$/;"	f
+dw_dnslabel_chop	src/DwStr.c	/^dw_str *dw_dnslabel_chop(dw_str *in) {$/;"	f
+dw_dnsname_convert	src/DwStr.c	/^dw_str *dw_dnsname_convert(dw_str *in) {$/;"	f
+dw_dnsname_delim_convert	src/DwStr.c	/^int dw_dnsname_delim_convert(dw_str *in, dw_str *out, int a, int place,$/;"	f
+dw_element	src/DwHash.h	/^typedef struct dw_element {$/;"	s
+dw_element	src/DwHash.h	/^} dw_element;$/;"	t	typeref:struct:dw_element
+dw_ends_in_dot	src/DwStr.c	/^int dw_ends_in_dot(dw_str *in) {$/;"	f
+dw_fatal	src/DwSys.c	/^void dw_fatal(char *why) {$/;"	f
+dw_fetch_u16	src/DwStr.c	/^int32_t dw_fetch_u16(dw_str *object, int32_t offset) {$/;"	f
+dw_fetch_u8	src/DwStr.c	/^int32_t dw_fetch_u8(dw_str *object, int32_t offset) {$/;"	f
+dw_fila	src/DwHash.h	/^typedef struct dw_fila {$/;"	s
+dw_fila	src/DwHash.h	/^} dw_fila;$/;"	t	typeref:struct:dw_fila
+dw_filename_sanitize	src/DwStr.c	/^int dw_filename_sanitize(dw_str *obj) {$/;"	f
+dw_get_a_dnsttl	src/DwStr.c	/^int32_t dw_get_a_dnsttl(dw_str *in, int offset, int32_t max, int depth) {$/;"	f
+dw_get_bit	src/DwStr.c	/^int dw_get_bit(dw_str *obj, int32_t byte, int8_t bit) {$/;"	f
+dw_get_dn_end	src/DwStr.c	/^int32_t dw_get_dn_end(dw_str *in, int offset) {$/;"	f
+dw_get_dname	src/DwStr.c	/^dw_str *dw_get_dname(uint8_t *raw, int offset, int max) {$/;"	f
+dw_get_dname_type	src/DwStr.c	/^dw_str *dw_get_dname_type(uint8_t *raw, int offset, int max) {$/;"	f
+dw_get_ttl_from_packet	src/DwStr.c	/^int32_t dw_get_ttl_from_packet(dw_str *in) {$/;"	f
+dw_hash	src/DwHash.h	/^} dw_hash;$/;"	t	typeref:struct:__anon2
+dw_issame	src/DwStr.c	/^int dw_issame(dw_str *a, dw_str *b) {$/;"	f
+dw_log_3strings	src/DwSys.c	/^void dw_log_3strings(char *s1, char *s2, char *s3, int min_log_level) {$/;"	f
+dw_log_close	src/DwSys.c	/^void dw_log_close() {$/;"	f
+dw_log_dwstr	src/DwSys.c	/^void dw_log_dwstr(char *s1, dw_str *s2, int min_log_level) {$/;"	f
+dw_log_dwstr_p	src/DwSys.c	/^void dw_log_dwstr_p(char *s1, dw_str *s2, int min_log_level) {$/;"	f
+dw_log_dwstr_str	src/DwSys.c	/^void dw_log_dwstr_str(char *s1, dw_str *s2, char *s3, int min_log_level) {$/;"	f
+dw_log_hex	src/DwSys.c	/^void dw_log_hex(char *s1, uint32_t number, int min_log_level) {$/;"	f
+dw_log_init	src/DwSys.c	/^void dw_log_init() {$/;"	f
+dw_log_ip	src/DwSys.c	/^void dw_log_ip(char *string, ip_addr_T *ip, int min_log_level) {$/;"	f
+dw_log_ip_p	src/DwSys.c	/^void dw_log_ip_p(ip_addr_T *ip) {$/;"	f
+dw_log_number	src/DwSys.c	/^void dw_log_number(char *s1, int number, char *s2, int min_log_level) {$/;"	f
+dw_log_string	src/DwSys.c	/^void dw_log_string(char *string, int min_log_level) {$/;"	f
+dw_malloc	src/DwStr.h	23;"	d
+dw_packet_to_cache	src/DwStr.c	/^dw_str *dw_packet_to_cache(uint8_t *raw, int len, uint8_t type) {$/;"	f
+dw_parse_args	src/DwMain.c	/^void dw_parse_args(int argc, char **argv) {$/;"	f
+dw_pop_u16	src/DwStr.c	/^int32_t dw_pop_u16(dw_str *object) {$/;"	f
+dw_pop_u8	src/DwStr.c	/^int32_t dw_pop_u8(dw_str *object) {$/;"	f
+dw_push_u16	src/DwStr.h	42;"	d
+dw_put_u16	src/DwStr.c	/^int dw_put_u16(dw_str *obj, uint16_t value, int32_t offset) {$/;"	f
+dw_put_u8	src/DwStr.c	/^int dw_put_u8(dw_str *obj, uint8_t value, int32_t offset) {$/;"	f
+dw_px	src/DwRecurse.h	104;"	d
+dw_qrappend	src/DwStr.c	/^int dw_qrappend(uint8_t *add, dw_str *object, char nope) {$/;"	f
+dw_qspop	src/DwStr.c	/^dw_str *dw_qspop(dw_str *in) {$/;"	f
+dw_qspush	src/DwStr.c	/^int dw_qspush(uint8_t *add, dw_str *object) {$/;"	f
+dw_rfind	src/DwStr.c	/^int32_t dw_rfind(dw_str *obj, uint8_t rx) {$/;"	f
+dw_rotate	src/DwStr.c	/^int dw_rotate(dw_str *in, int32_t start, int32_t pivot, int32_t end) {$/;"	f
+dw_show_programname	src/DwMain.c	/^void dw_show_programname() {$/;"	f
+dw_stdout	src/DwStr.c	/^void dw_stdout(dw_str *object) {$/;"	f
+dw_str	src/DwStr.h	/^        uint8_t *str; } dw_str;$/;"	t	typeref:struct:__anon14
+dw_substr	src/DwStr.c	/^dw_str *dw_substr(dw_str *obj, int32_t begin, int32_t amount, int32_t max) {$/;"	f
+dw_substr_append	src/DwStr.c	/^int dw_substr_append(dw_str *splice, int32_t begin, int32_t amount,$/;"	f
+dw_to_cstr	src/DwStr.c	/^uint8_t *dw_to_cstr(dw_str *obj) {$/;"	f
+dw_udp_main	src/DwMain.c	/^int dw_udp_main(int argc, char **argv) {$/;"	f
+dw_win_time	src/DwSys.c	/^void dw_win_time() {$/;"	f
+dw_zap_lws	src/DwStr.c	/^dw_str *dw_zap_lws(dw_str *obj) {$/;"	f
+dwc_check_ip	src/DwDnsStr.c	/^int dwc_check_ip(dwd_dict *blacklist_hash, dw_str *ip) {$/;"	f
+dwc_comp_rddata	src/DwCompress.c	/^int32_t dwc_comp_rddata(int16_t desc, dw_str *u, int32_t offset, dw_str *c,$/;"	f
+dwc_compress	src/DwCompress.c	/^dw_str *dwc_compress(dw_str *q, dw_str *in) {$/;"	f
+dwc_compress_all_rrs	src/DwCompress.c	/^int dwc_compress_all_rrs(dns_string *unpack, dw_str *in, dw_str *out,$/;"	f
+dwc_compress_dlabels	src/DwCompress.c	/^int32_t dwc_compress_dlabels(dw_str *u, int32_t u_o, dw_str *c,$/;"	f
+dwc_compress_rr	src/DwCompress.c	/^int dwc_compress_rr(uint16_t *o, dw_str *u, dw_str *c, dw_str *q, dw_str *s) {$/;"	f
+dwc_convert_dns_str	src/DwDnsStr.c	/^dw_str *dwc_convert_dns_str(dns_string *in) {$/;"	f
+dwc_decomp_dname	src/DwCompress.c	/^int32_t dwc_decomp_dname(dw_str *in, dw_str *out, dw_str *q, int32_t *delta,$/;"	f
+dwc_decomp_offset	src/DwCompress.c	/^int32_t dwc_decomp_offset(dw_str *in, int32_t offset, int32_t qlen) {$/;"	f
+dwc_decomp_rddata	src/DwCompress.c	/^int32_t dwc_decomp_rddata(int16_t desc, int32_t offset, dw_str *in,$/;"	f
+dwc_decomp_rr	src/DwCompress.c	/^int32_t dwc_decomp_rr(dw_str *in, dw_str *out, dw_str *q, dw_str *stack,$/;"	f
+dwc_decompress	src/DwCompress.c	/^dw_str *dwc_decompress(dw_str *q, dw_str *in) {$/;"	f
+dwc_dname_same	src/DwCompress.c	/^int dwc_dname_same(dw_str *u, int32_t u_o, dw_str *c, int32_t c_o, dw_str *q) {$/;"	f
+dwc_finish_name	src/DwCompress.c	/^int32_t dwc_finish_name(dw_str *out, int32_t *delta, int32_t offset,$/;"	f
+dwc_get_type	src/DwDnsStr.c	/^uint16_t dwc_get_type(dw_str *packet, uint16_t *list, int32_t max,$/;"	f
+dwc_has_bad_ip	src/DwDnsStr.c	/^int dwc_has_bad_ip(dw_str *answer, dwd_dict *blacklist_hash) {$/;"	f
+dwc_in_bailiwick	src/DwCompress.c	/^int32_t dwc_in_bailiwick(dw_str *b, int32_t b_o, dw_str *h,$/;"	f
+dwc_init_dns_str	src/DwDnsStr.c	/^dns_string *dwc_init_dns_str(int32_t ancount, int32_t nscount,$/;"	f
+dwc_label_same	src/DwCompress.c	/^int dwc_label_same(dw_str *a, int32_t a_o, dw_str *b, int32_t b_o) {$/;"	f
+dwc_lower_case	src/DwDnsStr.c	/^int dwc_lower_case(dw_str *query) {$/;"	f
+dwc_make_dns_str	src/DwDnsStr.c	/^dns_string *dwc_make_dns_str(dw_str *in) {$/;"	f
+dwc_place_offsets	src/DwDnsStr.c	/^int32_t dwc_place_offsets(dw_str *in, int32_t offset, int32_t count,$/;"	f
+dwc_process	src/DwDnsStr.c	/^void dwc_process(dw_hash *cache, dw_str *query, uint8_t action) {$/;"	f
+dwc_push_offsets	src/DwCompress.c	/^int dwc_push_offsets(dw_str *dns, int32_t place, dw_str *stack, int32_t$/;"	f
+dwc_rotate_offsets	src/DwDnsStr.c	/^int dwc_rotate_offsets(dw_str *in, int end, int first_rr, int last_rr) {$/;"	f
+dwc_rr_find	src/DwDnsStr.c	/^int dwc_rr_find(dns_string *look) {$/;"	f
+dwc_rr_rotate	src/DwDnsStr.c	/^int dwc_rr_rotate(dw_str *in, int32_t *out_start, int32_t *out_end) {$/;"	f
+dwc_seek_comp_pointer	src/DwCompress.c	/^int32_t dwc_seek_comp_pointer(dw_str *u, int32_t u_o, dw_str *c, dw_str *q,$/;"	f
+dwc_ttl_age	src/DwDnsStr.c	/^int dwc_ttl_age(dw_str *fetch, int32_t ttl) {$/;"	f
+dwc_type_desc	src/DwCompress.c	/^int16_t dwc_type_desc(int32_t type) {$/;"	f
+dwc_zap_dns_str	src/DwDnsStr.c	/^void dwc_zap_dns_str(dns_string *zap) {$/;"	f
+dwd_add	src/DwDict.c	/^dwd_dict *dwd_add(dwd_dict *hash, dw_str *key, dw_str *value) {$/;"	f
+dwd_dict	src/DwDict.h	20;"	d
+dwd_fetch	src/DwDict.c	/^dw_str *dwd_fetch(dwd_dict *hash, dw_str *key) {$/;"	f
+dwd_init	src/DwDict.c	/^dwd_dict *dwd_init() {$/;"	f
+dwd_nextkey	src/DwDict.c	/^dw_str *dwd_nextkey(dwd_dict *hash, dw_str *key) {$/;"	f
+dwh_add	src/DwHash.c	/^int dwh_add(dw_hash *hash, dw_str *key, dw_str *value, int32_t ttl,$/;"	f
+dwh_fila_fetch	src/DwHash.c	/^int dwh_fila_fetch(dw_hash *hash, dw_fila *get) {$/;"	f
+dwh_fila_new	src/DwHash.c	/^int dwh_fila_new(dw_hash *hash, dw_element *val) {$/;"	f
+dwh_fila_zap	src/DwHash.c	/^int dwh_fila_zap(dw_hash *hash, dw_fila *zap, int get_hash) {$/;"	f
+dwh_get	src/DwHash.c	/^dw_str *dwh_get(dw_hash *hash, dw_str *key, int ignore_expire, int use_fila) {$/;"	f
+dwh_get_dwstr	src/DwHash.c	/^dw_str *dwh_get_dwstr(FILE *handle) {$/;"	f
+dwh_get_hash_element	src/DwHash.c	/^dw_element *dwh_get_hash_element(FILE *handle) {$/;"	f
+dwh_get_int32	src/DwHash.c	/^int32_t dwh_get_int32(FILE *handle) {$/;"	f
+dwh_get_int64	src/DwHash.c	/^int64_t dwh_get_int64(FILE *handle) {$/;"	f
+dwh_get_ttl	src/DwHash.c	/^int32_t dwh_get_ttl(dw_hash *hash, dw_str *key) {$/;"	f
+dwh_grep	src/DwHash.c	/^dw_element *dwh_grep(dw_hash *hash, dw_str *key) {$/;"	f
+dwh_hash_autogrow	src/DwHash.c	/^dw_hash *dwh_hash_autogrow(dw_hash *hash) {$/;"	f
+dwh_hash_compress	src/DwHash.c	/^uint32_t dwh_hash_compress(dw_str *obj) {$/;"	f
+dwh_hash_init	src/DwHash.c	/^dw_hash *dwh_hash_init(uint32_t elements) {$/;"	f
+dwh_hash_nuke	src/DwHash.c	/^void dwh_hash_nuke(dw_hash *hash) {$/;"	f
+dwh_hash_zap	src/DwHash.c	/^void dwh_hash_zap(dw_hash *hash) {$/;"	f
+dwh_hsck_chains	src/DwHash.c	/^int dwh_hsck_chains(dw_hash *hash) {$/;"	f
+dwh_hsck_fila	src/DwHash.c	/^int dwh_hsck_fila(dw_hash *hash) {$/;"	f
+dwh_hsck_onefila	src/DwHash.c	/^void dwh_hsck_onefila(int index, dw_fila *seek) {$/;"	f
+dwh_init_element	src/DwHash.c	/^dw_element *dwh_init_element(dw_str *key, dw_str *value, int32_t ttl,$/;"	f
+dwh_place_new	src/DwHash.c	/^int dwh_place_new(dw_hash *hash, dw_element *new, int use_fila) {$/;"	f
+dwh_process_mararc_params	src/DwHash.c	/^void dwh_process_mararc_params() {$/;"	f
+dwh_put_dwstr	src/DwHash.c	/^void dwh_put_dwstr(FILE *handle, dw_str *str) {$/;"	f
+dwh_put_hash_element	src/DwHash.c	/^void dwh_put_hash_element(FILE *handle, dw_element *element) {$/;"	f
+dwh_put_int32	src/DwHash.c	/^void dwh_put_int32(FILE *handle, int32_t num) {$/;"	f
+dwh_put_int64	src/DwHash.c	/^void dwh_put_int64(FILE *handle, int64_t num) {$/;"	f
+dwh_read_hash	src/DwHash.c	/^dw_hash *dwh_read_hash(char *filename) {$/;"	f
+dwh_rg32_hash_compress	src/DwHash.c	/^uint32_t dwh_rg32_hash_compress(dw_str *obj) {$/;"	f
+dwh_write_hash	src/DwHash.c	/^int dwh_write_hash(dw_hash *hash, char *filename) {$/;"	f
+dwh_zap	src/DwHash.c	/^int dwh_zap(dw_hash *hash, dw_str *key, dw_element *seek, int use_fila) {$/;"	f
+dwm_char_class	src/DwMararc.c	/^int dwm_char_class(int32_t in, int cclass) {$/;"	f
+dwm_dict_add	src/DwMararc.c	/^void dwm_dict_add(int num, dw_str *key, dw_str *value, int todo) {$/;"	f
+dwm_dict_fetch	src/DwMararc.c	/^dw_str *dwm_dict_fetch(int num, dw_str *key) {$/;"	f
+dwm_dict_init	src/DwMararc.c	/^void dwm_dict_init() {$/;"	f
+dwm_dict_nextkey	src/DwMararc.c	/^dw_str *dwm_dict_nextkey(int num, dw_str *key) {$/;"	f
+dwm_do_action	src/DwMararc.c	/^void dwm_do_action(int32_t ch, int32_t action, dw_str **actions) {$/;"	f
+dwm_execfile	src/DwMararc.c	/^void dwm_execfile(dw_str *execfile, dw_str *fname) {$/;"	f
+dwm_fatal	src/DwMararc.c	/^void dwm_fatal(char *why) {$/;"	f
+dwm_file_depth	src/DwMararc.c	/^int dwm_file_depth = 0; \/* How many files we're nested in *\/$/;"	v
+dwm_fs	src/DwMararc.h	/^        } dwm_fs;$/;"	t	typeref:struct:__anon12
+dwm_grep_params	src/DwMararc.c	/^int32_t dwm_grep_params(dw_str *seek, char *list[], int max) {$/;"	f
+dwm_init_fsm	src/DwMararc.c	/^void dwm_init_fsm() {$/;"	f
+dwm_init_mararc	src/DwMararc.c	/^void dwm_init_mararc() {$/;"	f
+dwm_is_alpha	src/DwMararc.h	159;"	d
+dwm_is_alphanum	src/DwMararc.h	163;"	d
+dwm_is_alphastart	src/DwMararc.h	168;"	d
+dwm_is_any	src/DwMararc.h	180;"	d
+dwm_is_dname	src/DwMararc.h	171;"	d
+dwm_is_dnamestart	src/DwMararc.h	182;"	d
+dwm_is_instring	src/DwMararc.h	176;"	d
+dwm_is_number	src/DwMararc.h	186;"	d
+dwm_is_whitespace	src/DwMararc.h	178;"	d
+dwm_linenum	src/DwMararc.c	/^int dwm_linenum = 0;$/;"	v
+dwm_machine	src/DwMararc.h	199;"	d
+dwm_parse_file	src/DwMararc.c	/^int dwm_parse_file(char *name) {$/;"	f
+dwm_parse_line	src/DwMararc.c	/^int dwm_parse_line(FILE *look) {$/;"	f
+dwm_parse_mararc	src/DwMararc.c	/^int dwm_parse_mararc(char *name) {$/;"	f
+dwm_pattern_process	src/DwMararc.c	/^char dwm_pattern_process(int b) {$/;"	f
+dwm_process_character	src/DwMararc.c	/^int32_t dwm_process_character(int32_t in, int32_t state) {$/;"	f
+dwm_set_action	src/DwMararc.c	/^char *dwm_set_action(char *c, int max, int d, int32_t state) {$/;"	f
+dwm_set_fsm	src/DwMararc.c	/^char *dwm_set_fsm(int32_t state, char *c, int max) {$/;"	f
+dwm_set_keys	src/DwMararc.c	/^void dwm_set_keys(dw_str **actions) {$/;"	f
+dwm_set_newstate	src/DwMararc.c	/^char *dwm_set_newstate(char *c, int d, int32_t state) {$/;"	f
+dwm_set_todo	src/DwMararc.c	/^int dwm_set_todo(dw_str **actions) {$/;"	f
+dwm_tokenize_line	src/DwMararc.c	/^char *dwm_tokenize_line(char *c) {$/;"	f
+dwr_beltmill	src/DwRadioGatun.c	/^void dwr_beltmill(DWR_WORD *a, DWR_WORD *b) {$/;"	f
+dwr_init_rg	src/DwRadioGatun.c	/^dwr_rg *dwr_init_rg(dw_str *obj) {$/;"	f
+dwr_input_map	src/DwRadioGatun.c	121;"	d	file:
+dwr_new	src/DwRadioGatun.c	/^dwr_rg *dwr_new() {$/;"	f
+dwr_rg	src/DwRadioGatun.h	/^} dwr_rg;$/;"	t	typeref:struct:__anon1
+dwr_rng	src/DwRadioGatun.c	/^uint16_t dwr_rng(dwr_rg *in) {$/;"	f
+dwr_zap	src/DwRadioGatun.c	/^void dwr_zap(dwr_rg *tozap) {$/;"	f
+dwx_add_final_answer	src/DwRecurse.c	/^void dwx_add_final_answer(dw_str *query, dw_str *answer, dw_str *value,$/;"	f
+dwx_alt_cname_reply	src/DwRecurse.c	/^dw_str *dwx_alt_cname_reply(dw_str *query, dw_str *action, dw_str *answer,$/;"	f
+dwx_answer_in_ar	src/DwRecurse.c	/^dw_str *dwx_answer_in_ar(dns_details *view, dw_str *in) {$/;"	f
+dwx_cache_reply	src/DwRecurse.c	/^int dwx_cache_reply(dw_hash *cache, dw_str *query, dw_str *in, int32_t ttl,$/;"	f
+dwx_cached_cname_done	src/DwRecurse.c	/^void dwx_cached_cname_done(dw_str *query, int b, int l, int depth) {$/;"	f
+dwx_check_answer_section	src/DwRecurse.c	/^int dwx_check_answer_section(dw_str *in, dw_str *query, dns_details *view) {$/;"	f
+dwx_check_answer_section_any	src/DwRecurse.c	/^int dwx_check_answer_section_any(dw_str *in, dw_str *query,dns_details *view) {$/;"	f
+dwx_check_bailiwick_ns_section	src/DwRecurse.c	/^int dwx_check_bailiwick_ns_section(dns_details *view, dw_str *query,$/;"	f
+dwx_choose_ns	src/DwRecurse.c	/^int dwx_choose_ns(int b, int count, dwr_rg *rng, dw_str *list) {$/;"	f
+dwx_cleanup_ns_ar	src/DwRecurse.c	/^int dwx_cleanup_ns_ar(dns_details *view) {$/;"	f
+dwx_cname_in_cache	src/DwRecurse.c	/^int dwx_cname_in_cache(dw_str *orig_query, dw_str *query,$/;"	f
+dwx_copy_over_section	src/DwRecurse.c	/^int dwx_copy_over_section(dw_str *out, dw_str *packet, int8_t *types,$/;"	f
+dwx_create_cname_reply	src/DwRecurse.c	/^dw_str *dwx_create_cname_reply(dw_str *query, dw_str *action, dw_str *answer,$/;"	f
+dwx_create_dns_details	src/DwRecurse.c	/^dns_details *dwx_create_dns_details(dw_str *in, dw_str *query) {$/;"	f
+dwx_determine_answer_type	src/DwRecurse.c	/^int dwx_determine_answer_type(dns_details *view, dw_str *query, dw_str *in) {$/;"	f
+dwx_dissect_packet	src/DwRecurse.c	/^dw_str *dwx_dissect_packet(dw_str *in, dw_str *query, dw_str *bailiwick) {$/;"	f
+dwx_dname_issame	src/DwRecurse.c	/^int dwx_dname_issame(uint8_t *p1, uint8_t *p2, uint8_t *pmax1,$/;"	f
+dwx_dname_issame_2dw	src/DwRecurse.c	/^int dwx_dname_issame_2dw(dw_str *in1, uint32_t offset1, dw_str *in2,$/;"	f
+dwx_dname_issame_dw	src/DwRecurse.c	/^int dwx_dname_issame_dw(dw_str *in, uint32_t offset1, uint32_t offset2) {$/;"	f
+dwx_do_cname_glueless	src/DwRecurse.c	/^int dwx_do_cname_glueless(dw_str *query, int conn_num) {$/;"	f
+dwx_do_glueless_inflight	src/DwRecurse.c	/^int dwx_do_glueless_inflight(int32_t conn_number, int already, int type) {$/;"	f
+dwx_do_glueless_new	src/DwRecurse.c	/^void dwx_do_glueless_new(dw_str *query, int32_t conn_number, int type) {$/;"	f
+dwx_do_ns_glueless	src/DwRecurse.c	/^void dwx_do_ns_glueless(ip_addr_T addr, int32_t conn_number) {$/;"	f
+dwx_example_org_bailiwick	src/DwRecurse.c	/^dw_str *dwx_example_org_bailiwick() {$/;"	f
+dwx_example_root_bailiwick	src/DwRecurse.c	/^dw_str *dwx_example_root_bailiwick() {$/;"	f
+dwx_find_inflight	src/DwRecurse.c	/^int dwx_find_inflight(dw_str *query) {$/;"	f
+dwx_find_ns_referral	src/DwRecurse.c	/^dw_str *dwx_find_ns_referral(dns_details *view, int32_t out_len) {$/;"	f
+dwx_get_1_dns_rr	src/DwRecurse.c	/^dw_str *dwx_get_1_dns_rr(dw_str *in, int32_t offset) {$/;"	f
+dwx_get_dns_string	src/DwRecurse.c	/^dw_str *dwx_get_dns_string(dw_str *in, int32_t offset) {$/;"	f
+dwx_get_rr_from_answer	src/DwRecurse.c	/^ip_addr_T dwx_get_rr_from_answer(dw_str *answer) {$/;"	f
+dwx_glueless_done	src/DwRecurse.c	/^void dwx_glueless_done(dw_str *query, int32_t conn_num) {$/;"	f
+dwx_handle_cname_refer	src/DwRecurse.c	/^int dwx_handle_cname_refer(int connection_number, dw_str *action,$/;"	f
+dwx_handle_ns_refer	src/DwRecurse.c	/^void dwx_handle_ns_refer(int connection_number, dw_str *action,$/;"	f
+dwx_handle_ns_refer_connect	src/DwRecurse.c	/^void dwx_handle_ns_refer_connect(int connection_number, dw_str *packet,$/;"	f
+dwx_if_an_then_no_ns_nor_ar	src/DwRecurse.c	/^int dwx_if_an_then_no_ns_nor_ar(dns_details *view) {$/;"	f
+dwx_incomplete_cname_done	src/DwRecurse.c	/^void dwx_incomplete_cname_done(dw_str *query, int child, int l) {$/;"	f
+dwx_init_conn_local	src/DwRecurse.c	/^void dwx_init_conn_local(int32_t conn_number, int local_number) {$/;"	f
+dwx_init_dns_details	src/DwRecurse.c	/^dns_details *dwx_init_dns_details(dns_string *look) {$/;"	f
+dwx_link_ns_records	src/DwRecurse.c	/^int dwx_link_ns_records(dns_details *view) {$/;"	f
+dwx_make_cache_string	src/DwRecurse.c	/^dw_str *dwx_make_cache_string(dns_details *view, int type) {$/;"	f
+dwx_make_cname_refer	src/DwRecurse.c	/^dw_str *dwx_make_cname_refer(dns_details *view) {$/;"	f
+dwx_make_cname_reply	src/DwRecurse.c	/^int dwx_make_cname_reply(int conn_num, dw_str *query,$/;"	f
+dwx_make_link	src/DwRecurse.c	/^void dwx_make_link(dns_details *view, int ns, int ar) {$/;"	f
+dwx_make_ns_refer	src/DwRecurse.c	/^dw_str *dwx_make_ns_refer(dns_details *view) {$/;"	f
+dwx_make_ns_refer_glued	src/DwRecurse.c	/^int dwx_make_ns_refer_glued(dns_details *view, dw_str *out, uint16_t *offset,$/;"	f
+dwx_make_ns_refer_proc	src/DwRecurse.c	/^dw_str *dwx_make_ns_refer_proc(dns_details *view, int32_t out_len) {$/;"	f
+dwx_make_nsglue	src/DwRecurse.c	/^dw_str *dwx_make_nsglue(dw_str *in, int32_t toffset, int type) {$/;"	f
+dwx_make_nsglueless	src/DwRecurse.c	/^dw_str *dwx_make_nsglueless(dw_str *in, int32_t offset) {$/;"	f
+dwx_make_one_cname_rr	src/DwRecurse.c	/^dw_str *dwx_make_one_cname_rr(dw_str *question, int32_t question_offset,$/;"	f
+dwx_ns_add_1record	src/DwRecurse.c	/^int dwx_ns_add_1record(dw_str *out, int ip_type, uint8_t *ip_raw) {$/;"	f
+dwx_ns_convert	src/DwRecurse.c	/^dw_str *dwx_ns_convert(dw_str *in, int is_upstream, dw_str *bailiwick) {$/;"	f
+dwx_ns_convert_1ip	src/DwRecurse.c	/^int dwx_ns_convert_1ip(char *ip_human, uint8_t *ip_raw) {$/;"	f
+dwx_ns_convert_init	src/DwRecurse.c	/^dw_str *dwx_ns_convert_init(dw_str *bailiwick) {$/;"	f
+dwx_ns_convert_mangle	src/DwRecurse.c	/^dw_str *dwx_ns_convert_mangle(dw_str *mangle, int is_upstream, dw_str *b) {$/;"	f
+dwx_ns_convert_number	src/DwRecurse.c	/^int dwx_ns_convert_number(int in) {$/;"	f
+dwx_ns_getip	src/DwRecurse.c	/^ip_addr_T dwx_ns_getip(dw_str *list, dwr_rg *rng, int b) {$/;"	f
+dwx_ns_getip_glueless	src/DwRecurse.c	/^ip_addr_T dwx_ns_getip_glueless(dw_str *list, int offset) {$/;"	f
+dwx_ns_getip_ipv4	src/DwRecurse.c	/^ip_addr_T dwx_ns_getip_ipv4(dw_str *list, int offset) {$/;"	f
+dwx_ns_getip_ipv6	src/DwRecurse.c	/^ip_addr_T dwx_ns_getip_ipv6(dw_str *list, int offset) {$/;"	f
+dwx_nsref_type	src/DwRecurse.c	/^int dwx_nsref_type(int a, int *offset, dw_str *list) {$/;"	f
+dwx_remake_complete_reply	src/DwRecurse.c	/^dw_str *dwx_remake_complete_reply(dns_details *view, int type) {$/;"	f
+dwx_remake_footer	src/DwRecurse.c	/^int dwx_remake_footer(dw_str *out, uint16_t *offsets, uint16_t an,$/;"	f
+dwx_rrtype_number	src/DwRecurse.c	/^int8_t dwx_rrtype_number(int32_t rr) {$/;"	f
+dwx_send_glueless_cname_upstream	src/DwRecurse.c	/^void dwx_send_glueless_cname_upstream(int conn_num, int c, int depth,$/;"	f
+dwx_stdout_char	src/DwRecurse.c	/^void dwx_stdout_char(dw_str *in, int32_t offset) {$/;"	f
+dwx_stdout_dns_details	src/DwRecurse.c	/^void dwx_stdout_dns_details(dns_details *view) {$/;"	f
+dwx_stdout_dns_packet	src/DwRecurse.c	/^void dwx_stdout_dns_packet(dw_str *packet) {$/;"	f
+dwx_stdout_rr	src/DwRecurse.c	/^int32_t dwx_stdout_rr(dw_str *in, int32_t offset) {$/;"	f
+dwx_stdout_rrtype	src/DwRecurse.c	/^void dwx_stdout_rrtype(dw_str *in, int32_t offset) {$/;"	f
+dwx_string_bailiwick_query	src/DwRecurse.c	/^int dwx_string_bailiwick_query(dw_str *in, int32_t offset, dw_str *query) {$/;"	f
+dwx_string_bailiwick_top	src/DwRecurse.c	/^int dwx_string_bailiwick_top(dw_str *in, int32_t offset, dw_str *bailiwick) {$/;"	f
+dwx_string_in_bailiwick	src/DwRecurse.c	/^int dwx_string_in_bailiwick(dw_str *in, int32_t offset, dw_str *bailiwick,$/;"	f
+dwx_synth_notthere	src/DwRecurse.c	/^dw_str *dwx_synth_notthere(dw_str *query) {$/;"	f
+dwx_zap_dns_details	src/DwRecurse.c	/^void dwx_zap_dns_details(dns_details *victim) {$/;"	f
+dwx_zap_whitespace	src/DwRecurse.c	/^void dwx_zap_whitespace(char *in) {$/;"	f
+expire	src/DwHash.h	/^        int64_t expire; \/* When this record expires *\/$/;"	m	struct:dw_element
+family	src/DwSocket.h	/^                sa_family_t family;$/;"	m	union:__anon6::__anon7
+fatal	src/RandomPrime.c	/^void fatal(char *why) {$/;"	f
+fila	src/DwHash.h	/^        dw_fila *fila;  \/* Element in fila for this record *\/$/;"	m	struct:dw_element
+fila	src/DwHash.h	/^        dw_fila *fila;  \/* List used to delete unused elements *\/$/;"	m	struct:__anon2
+find_free_remote	src/DwSocket.c	/^int32_t find_free_remote() {$/;"	f
+find_free_tcp_pend	src/DwTcpSocket.c	/^int32_t find_free_tcp_pend() {$/;"	f
+find_inflight_query	src/DwUdpSocket.c	/^int find_inflight_query(unsigned char *a, int len) {$/;"	f
+find_max	src/DwSocket.c	/^SOCKET find_max(int *list, int max) {$/;"	f
+flags	src/DwSocket.h	/^        uint8_t flags;$/;"	m	struct:__anon4
+fmt	tools/ej/ej2html	/^sub fmt {$/;"	s
+forward_local_udp_packet	src/DwUdpSocket.c	/^int forward_local_udp_packet(SOCKET sock, int32_t local_id,$/;"	f
+forward_remote_reply	src/DwUdpSocket.c	/^void forward_remote_reply(unsigned char *packet, size_t len, remote_T *r_ip,$/;"	f
+from_socket	src/DwSocket.h	/^        SOCKET from_socket;$/;"	m	struct:__anon8
+fsm	src/DwMararc.c	/^dwm_fs fsm[DWM_MAX_STATES + 1]; \/* Finite state machine *\/$/;"	v
+fsm_desc	src/DwMararc.c	/^char *fsm_desc=dwm_machine;$/;"	v
+ga	src/DwHash.c	/^int ga = 0;$/;"	v
+get_bind_addrs	src/DwSys.c	/^dw_str *get_bind_addrs() {$/;"	f
+get_dns_qid	src/DwSys.c	/^int32_t get_dns_qid(unsigned char *a, int len, int roy_arends_check) {$/;"	f
+get_entropy_from_seedfile	src/DwSys.c	/^void get_entropy_from_seedfile(uint8_t *noise,int len) {$/;"	f
+get_from_ip_port	src/DwSocket.c	/^uint16_t get_from_ip_port(ip_addr_T *from_ip, sockaddr_all_T *client) {$/;"	f
+get_ip	sqa/dwood2rc_n_max_inflights/microdns_delay.c	/^uint32_t get_ip(int argc, char **argv) {$/;"	f
+get_ip	sqa/sqa_bigpacket/truncated.c	/^uint32_t get_ip(int argc, char **argv) {$/;"	f
+get_ip	sqa/sqa_easydns_bad_truncation/simulate_easydns.c	/^uint32_t get_ip(int argc, char **argv) {$/;"	f
+get_ip	sqa/sqa_root_upstream/microdns_rd_must_be_clear.c	/^uint32_t get_ip(int argc, char **argv) {$/;"	f
+get_ip	sqa/sqa_root_upstream/microdns_rd_must_be_set.c	/^uint32_t get_ip(int argc, char **argv) {$/;"	f
+get_ip	sqa/sqa_roy_arends/sendpacket-arends.c	/^uint32_t get_ip(int argc, char **argv) {$/;"	f
+get_ip	sqa/sqa_server_fail/microdns.c	/^uint32_t get_ip(int argc, char **argv) {$/;"	f
+get_ip	sqa/sqa_server_fail/microdns_server_fail.c	/^uint32_t get_ip(int argc, char **argv) {$/;"	f
+get_ip	sqa/sqa_tcp_buffering/truncated.c	/^uint32_t get_ip(int argc, char **argv) {$/;"	f
+get_ip	sqa/sqa_tcp_buffering_2/truncated.c	/^uint32_t get_ip(int argc, char **argv) {$/;"	f
+get_ip	sqa/sqa_ttl_expire/microdns-timestamp.c	/^uint32_t get_ip(int argc, char **argv) {$/;"	f
+get_key_n	src/DwSys.c	/^int32_t get_key_n(int32_t get, int32_t min, int32_t max, int32_t def) {$/;"	f
+get_local_udp_packet	src/DwUdpSocket.c	/^void get_local_udp_packet(SOCKET sock) {$/;"	f
+get_max	src/DwSocket.c	/^SOCKET get_max() {$/;"	f
+get_nibble	sqa/sqa_bigpacket/send_packet_stdin.c	/^int8_t get_nibble() {$/;"	f
+get_nibble	sqa/sqa_bigpacket/show_packet_stdout.c	/^int8_t get_nibble() {$/;"	f
+get_nibble	sqa/sqa_tcp_buffering/send_packet_stdin.c	/^int8_t get_nibble() {$/;"	f
+get_nibble	sqa/sqa_tcp_buffering/show_packet_stdout.c	/^int8_t get_nibble() {$/;"	f
+get_nibble	sqa/sqa_tcp_buffering_2/send_packet_stdin.c	/^int8_t get_nibble() {$/;"	f
+get_nibble	sqa/sqa_tcp_buffering_2/show_packet_stdout.c	/^int8_t get_nibble() {$/;"	f
+get_port	sqa/dwood2rc_n_max_inflights/microdns_delay.c	/^SOCKET get_port(uint32_t ip, char **argv, struct sockaddr_in *dns_udp) {$/;"	f
+get_port	sqa/sqa_bigpacket/send_packet_stdin.c	/^SOCKET get_port(uint32_t ip, struct sockaddr_in *dns) {$/;"	f
+get_port	sqa/sqa_bigpacket/show_packet_stdout.c	/^SOCKET get_port(uint32_t ip, struct sockaddr_in *dns) {$/;"	f
+get_port	sqa/sqa_bigpacket/truncated.c	/^SOCKET get_port(uint32_t ip, char **argv, struct sockaddr_in *dns_udp) {$/;"	f
+get_port	sqa/sqa_easydns_bad_truncation/simulate_easydns.c	/^SOCKET get_port(uint32_t ip, char **argv, struct sockaddr_in *dns_udp) {$/;"	f
+get_port	sqa/sqa_root_upstream/microdns_rd_must_be_clear.c	/^SOCKET get_port(uint32_t ip, char **argv, struct sockaddr_in *dns_udp) {$/;"	f
+get_port	sqa/sqa_root_upstream/microdns_rd_must_be_set.c	/^SOCKET get_port(uint32_t ip, char **argv, struct sockaddr_in *dns_udp) {$/;"	f
+get_port	sqa/sqa_roy_arends/sendpacket-arends.c	/^SOCKET get_port(uint32_t ip, char **argv, struct sockaddr_in *dns_udp) {$/;"	f
+get_port	sqa/sqa_server_fail/microdns.c	/^SOCKET get_port(uint32_t ip, char **argv, struct sockaddr_in *dns_udp) {$/;"	f
+get_port	sqa/sqa_server_fail/microdns_server_fail.c	/^SOCKET get_port(uint32_t ip, char **argv, struct sockaddr_in *dns_udp) {$/;"	f
+get_port	sqa/sqa_tcp_buffering/send_packet_stdin.c	/^SOCKET get_port(uint32_t ip, struct sockaddr_in *dns) {$/;"	f
+get_port	sqa/sqa_tcp_buffering/show_packet_stdout.c	/^SOCKET get_port(uint32_t ip, struct sockaddr_in *dns) {$/;"	f
+get_port	sqa/sqa_tcp_buffering/truncated.c	/^SOCKET get_port(uint32_t ip, char **argv, struct sockaddr_in *dns_udp) {$/;"	f
+get_port	sqa/sqa_tcp_buffering_2/send_packet_stdin.c	/^SOCKET get_port(uint32_t ip, struct sockaddr_in *dns) {$/;"	f
+get_port	sqa/sqa_tcp_buffering_2/show_packet_stdout.c	/^SOCKET get_port(uint32_t ip, struct sockaddr_in *dns) {$/;"	f
+get_port	sqa/sqa_tcp_buffering_2/truncated.c	/^SOCKET get_port(uint32_t ip, char **argv, struct sockaddr_in *dns_udp) {$/;"	f
+get_port	sqa/sqa_ttl_expire/microdns-timestamp.c	/^SOCKET get_port(uint32_t ip, char **argv, struct sockaddr_in *dns_udp) {$/;"	f
+get_rem_udp_packet_core	src/DwUdpSocket.c	/^int get_rem_udp_packet_core(unsigned char *a, ssize_t count,$/;"	f
+get_remote_udp_packet	src/DwUdpSocket.c	/^void get_remote_udp_packet(int b, SOCKET sock) {$/;"	f
+get_reply_from_cache	src/DwUdpSocket.c	/^int get_reply_from_cache(dw_str *query, sockaddr_all_T *client,$/;"	f
+get_stdin_hex	sqa/sqa_bigpacket/send_packet_stdin.c	/^int16_t get_stdin_hex() {$/;"	f
+get_stdin_hex	sqa/sqa_bigpacket/show_packet_stdout.c	/^int16_t get_stdin_hex() {$/;"	f
+get_stdin_hex	sqa/sqa_tcp_buffering/send_packet_stdin.c	/^int16_t get_stdin_hex() {$/;"	f
+get_stdin_hex	sqa/sqa_tcp_buffering/show_packet_stdout.c	/^int16_t get_stdin_hex() {$/;"	f
+get_stdin_hex	sqa/sqa_tcp_buffering_2/send_packet_stdin.c	/^int16_t get_stdin_hex() {$/;"	f
+get_stdin_hex	sqa/sqa_tcp_buffering_2/show_packet_stdout.c	/^int16_t get_stdin_hex() {$/;"	f
+get_time	src/DwSys.h	40;"	d
+get_upstream_ip	src/DwSocket.c	/^ip_addr_T get_upstream_ip(dw_str *query, int b) {$/;"	f
+get_upstream_ns	src/DwSocket.c	/^dw_str *get_upstream_ns(dw_str *query, int connection_number) {$/;"	f
+glueless	src/DwSocket.h	/^        dw_str *glueless; \/* Used for glueless NS referrals *\/$/;"	m	struct:__anon4
+glueless	src/DwSocket.h	/^        dw_str *glueless;$/;"	m	struct:__anon9
+glueless_conn	src/DwSocket.h	/^        int glueless_conn; \/* Remote connection number needing glueless *\/$/;"	m	struct:__anon8
+glueless_type	src/DwSocket.h	/^        uint8_t glueless_type;$/;"	m	struct:__anon8
+got	src/DwSocket.h	/^        int32_t got;    \/* Bytes received from TCP connection *\/$/;"	m	struct:__anon11
+got_hup_signal	tools/duende.c	/^int got_hup_signal = 0;$/;"	v
+got_signal	src/DwSys.c	/^int got_signal = 0;$/;"	v
+got_term_signal	tools/duende.c	/^int got_term_signal = 0;$/;"	v
+hServiceStatus	src/DwWinSvc.c	/^static SERVICE_STATUS_HANDLE    hServiceStatus = 0;$/;"	v	file:
+handle_child_exited	tools/duende.c	/^void handle_child_exited(int exit_status, pid_t alive, pid_t exited) {$/;"	f
+handle_expired	src/DwSocket.c	/^int handle_expired(int a) {$/;"	f
+handle_hup	tools/duende.c	/^void handle_hup() {$/;"	f
+handle_noreply	src/DwSocket.c	/^int handle_noreply = 1;$/;"	v
+handle_overload	src/DwSocket.c	/^int handle_overload = 1;$/;"	v
+handle_resurrections	src/DwSocket.c	/^int handle_resurrections(int a) {$/;"	f
+handle_signal	src/DwSys.c	/^void handle_signal(int code) {$/;"	f
+handle_term	tools/duende.c	/^void handle_term() {$/;"	f
+hash	src/DwHash.h	/^        dw_element **hash;$/;"	m	struct:__anon2
+immutable	src/DwHash.h	/^        int8_t immutable; \/* Whether we can delete this element *\/$/;"	m	struct:dw_element
+index	src/DwRadioGatun.h	/^        int32_t index;$/;"	m	struct:__anon1
+inet_pton	src/DwSocket.c	/^int inet_pton(int z, char *c, uint8_t *ip) {$/;"	f
+inflight	src/DwUdpSocket.c	/^dw_hash *inflight;$/;"	v
+init_b_remote	src/DwSocket.c	/^void init_b_remote() {$/;"	f
+init_cache	src/DwSys.c	/^void init_cache() {$/;"	f
+init_inflight_hash	src/DwUdpSocket.c	/^void init_inflight_hash() {$/;"	f
+init_rng	src/DwSys.c	/^void init_rng() {$/;"	f
+init_tcp_b_pend	src/DwTcpSocket.c	/^void init_tcp_b_pend() {$/;"	f
+init_tcp_pend	src/DwSocket.h	195;"	d
+init_tcp_rem	src/DwSocket.h	205;"	d
+ip	src/DwSocket.h	/^        ip_addr_T ip; \/* IP local request came from *\/$/;"	m	struct:__anon8
+ip	src/DwSocket.h	/^        uint8_t ip[17];$/;"	m	struct:__anon4
+ip	src/DwSocket.h	/^        uint8_t ip[17];$/;"	m	struct:__anon5
+ip	src/DwSocket.h	/^        uint8_t ip[5];$/;"	m	struct:__anon4
+ip	src/DwSocket.h	/^        uint8_t ip[5];$/;"	m	struct:__anon5
+ip_addr_T	src/DwSocket.h	/^} ip_addr_T;$/;"	t	typeref:struct:__anon4
+ip_mask_T	src/DwSocket.h	/^} ip_mask_T;$/;"	t	typeref:struct:__anon5
+is_upstream	src/DwSocket.h	/^        uint8_t is_upstream; \/* Whether this is an upstream or root NS *\/$/;"	m	struct:__anon9
+isprime	src/RandomPrime.c	/^int isprime(uint32_t candidate) {$/;"	f
+key	src/DwHash.h	/^        dw_str *key;$/;"	m	struct:dw_element
+key_d	src/DwMararc.h	/^dwd_dict *key_d[KEY_D_COUNT + 1]; \/* The dictionary dwood2rc parameters *\/$/;"	v
+key_d_names	src/DwMararc.h	/^char *key_d_names[KEY_D_COUNT + 1] = {$/;"	v
+key_n	src/DwMararc.h	/^int32_t key_n[KEY_N_COUNT + 1]; \/* The numeric dwood2rc parameters *\/$/;"	v
+key_n_names	src/DwMararc.h	/^char *key_n_names[KEY_N_COUNT + 1] = {$/;"	v
+key_s	src/DwMararc.h	/^dw_str *key_s[KEY_S_COUNT + 1]; \/* All of the string dwood2rc parameters *\/$/;"	v
+key_s_names	src/DwMararc.h	/^char *key_s_names[KEY_S_COUNT + 1] = {$/;"	v
+kill_expired	src/DwSocket.c	/^void kill_expired() {$/;"	f
+kill_tcp_expired	src/DwTcpSocket.c	/^void kill_tcp_expired() {$/;"	f
+last	src/DwHash.h	/^        struct dw_fila *last;$/;"	m	struct:dw_fila	typeref:struct:dw_fila::dw_fila
+len	src/DwSocket.h	/^        uint8_t len; \/* 0: Error; 4: IPv4; 16: IPv6; 127: Glueless name *\/$/;"	m	struct:__anon4
+len	src/DwSocket.h	/^        uint8_t len;$/;"	m	struct:__anon5
+len	src/DwStr.h	/^        uint32_t len; \/* private *\/$/;"	m	struct:__anon14
+local	src/DwSocket.h	/^        SOCKET local;$/;"	m	struct:__anon10
+local	src/DwSocket.h	/^        SOCKET local;$/;"	m	struct:__anon11
+local	src/DwSocket.h	/^        local_T **local; \/* Array of local connections connected to this$/;"	m	struct:__anon9
+local_T	src/DwSocket.h	/^} local_T;$/;"	t	typeref:struct:__anon8
+local_id	src/DwSocket.h	/^        uint16_t local_id; \/* Query ID generated by DNS server connecting$/;"	m	struct:__anon8
+local_tcp_accept	src/DwTcpSocket.c	/^void local_tcp_accept(SOCKET s) {$/;"	f
+log_helper	tools/duende.c	/^void log_helper(char *name,int stdout_fd) {$/;"	f
+look	src/DwRecurse.h	/^        dns_string *look;$/;"	m	struct:__anon13
+main	sqa/dwood2rc_n_max_inflights/microdns_delay.c	/^int main(int argc, char **argv) {$/;"	f
+main	sqa/dwood2rc_n_num_retries/simple.dns.c	/^main() {$/;"	f
+main	sqa/dwood2rc_n_resurrections/dead.server.c	/^main() {$/;"	f
+main	sqa/sqa_badid_question/badid.dns.c	/^main() {$/;"	f
+main	sqa/sqa_badid_question/badquestion.dns.c	/^main() {$/;"	f
+main	sqa/sqa_bigpacket/send_packet_stdin.c	/^int main(int argc, char **argv) {$/;"	f
+main	sqa/sqa_bigpacket/show_packet_stdout.c	/^int main(int argc, char **argv) {$/;"	f
+main	sqa/sqa_bigpacket/truncated.c	/^int main(int argc, char **argv) {$/;"	f
+main	sqa/sqa_easydns_bad_truncation/simulate_easydns.c	/^int main(int argc, char **argv) {$/;"	f
+main	sqa/sqa_incomplete_last_line/incomplete.last.line.c	/^main() {$/;"	f
+main	sqa/sqa_root_upstream/microdns_rd_must_be_clear.c	/^int main(int argc, char **argv) {$/;"	f
+main	sqa/sqa_root_upstream/microdns_rd_must_be_set.c	/^int main(int argc, char **argv) {$/;"	f
+main	sqa/sqa_roy_arends/sendpacket-arends.c	/^int main(int argc, char **argv) {$/;"	f
+main	sqa/sqa_server_fail/microdns.c	/^int main(int argc, char **argv) {$/;"	f
+main	sqa/sqa_server_fail/microdns_server_fail.c	/^int main(int argc, char **argv) {$/;"	f
+main	sqa/sqa_tcp_buffering/send_packet_stdin.c	/^int main(int argc, char **argv) {$/;"	f
+main	sqa/sqa_tcp_buffering/show_packet_stdout.c	/^int main(int argc, char **argv) {$/;"	f
+main	sqa/sqa_tcp_buffering/truncated.c	/^int main(int argc, char **argv) {$/;"	f
+main	sqa/sqa_tcp_buffering_2/send_packet_stdin.c	/^int main(int argc, char **argv) {$/;"	f
+main	sqa/sqa_tcp_buffering_2/show_packet_stdout.c	/^int main(int argc, char **argv) {$/;"	f
+main	sqa/sqa_tcp_buffering_2/truncated.c	/^int main(int argc, char **argv) {$/;"	f
+main	sqa/sqa_ttl_expire/microdns-timestamp.c	/^int main(int argc, char **argv) {$/;"	f
+main	src/DwCompress.c	/^int main() {$/;"	f
+main	src/DwHash.c	/^int main() {$/;"	f
+main	src/DwMain.c	/^int main(int argc, char **argv) {$/;"	f
+main	src/DwMararc.c	/^int main() {$/;"	f
+main	src/DwRadioGatun.c	/^main(int argc, char **argv) {$/;"	f
+main	src/DwWinSvc.c	/^int main(int argc, char **argv) {$/;"	f
+main	src/RandomPrime.c	/^int main() {$/;"	f
+main	src/Test.c	/^int main() {$/;"	f
+main	tools/duende.c	/^int main(int argc, char **argv) {$/;"	f
+main	tools/mkSecretTxt.c	/^main() {$/;"	f
+make_dns_header	src/DwUdpSocket.c	/^dw_str *make_dns_header(int32_t id, int16_t flags, int32_t ancount,$/;"	f
+make_dns_packet	src/DwUdpSocket.c	/^dw_str *make_dns_packet(dw_str *question, dw_str *answer, int32_t id) {$/;"	f
+make_dns_query_packet	src/DwTcpSocket.c	/^dw_str *make_dns_query_packet(dw_str *query, int id, int is_upstream) {$/;"	f
+make_ip_dict	src/DwSocket.c	/^dwd_dict *make_ip_dict(dw_str *in) {$/;"	f
+make_ip_str	src/DwSocket.c	/^dw_str *make_ip_str(ip_addr_T *in) {$/;"	f
+make_netmask	src/DwSys.c	/^void make_netmask(int num, uint8_t *str, int len) {$/;"	f
+make_new_udp_connect	src/DwUdpSocket.c	/^void make_new_udp_connect(int b, unsigned char *a, int len, int num_alloc) {$/;"	f
+make_remote_connection	src/DwUdpSocket.c	/^void make_remote_connection(int32_t n, unsigned char *packet, int len,$/;"	f
+make_socket_nonblock	src/DwSocket.h	79;"	d
+make_socket_nonblock	src/DwSocket.h	85;"	d
+make_synth_not_there	src/DwUdpSocket.c	/^void make_synth_not_there(int b, SOCKET sock, unsigned char *a, int count) {$/;"	f
+make_synth_not_there_answer	src/DwUdpSocket.c	/^unsigned char *make_synth_not_there_answer(unsigned char *a, int *count,$/;"	f
+malloc_tcp_pend	src/DwTcpSocket.c	/^void malloc_tcp_pend() {$/;"	f
+maradns_gid	src/DwSocket.c	/^int32_t maradns_gid = 99;$/;"	v
+maradns_uid	src/DwSocket.c	/^int32_t maradns_uid = 99;$/;"	v
+mararc_st	src/DwSys.c	/^struct stat mararc_st;$/;"	v	typeref:struct:stat
+mask	src/DwHash.h	/^        uint32_t mask; \/* "and" mask used to determine size of hash list *\/$/;"	m	struct:__anon2
+mask	src/DwSocket.h	/^        uint8_t mask[17];$/;"	m	struct:__anon5
+mask	src/DwSocket.h	/^        uint8_t mask[5];$/;"	m	struct:__anon5
+max	src/DwHash.h	/^        int32_t max;  \/* Maximum number of elements in hash *\/$/;"	m	struct:__anon2
+max	src/DwStr.h	/^        uint32_t max; \/* private *\/$/;"	m	struct:__anon14
+max_tcp_procs	src/DwSocket.c	/^int max_tcp_procs = 8;$/;"	v
+max_ttl	src/DwSocket.c	/^int32_t max_ttl = 86400;$/;"	v
+maxprocs	src/DwSocket.c	/^int maxprocs = 32;$/;"	v
+mill	src/DwRadioGatun.h	/^        DWR_WORD *mill;$/;"	m	struct:__anon1
+min_bind	src/DwSocket.c	/^int32_t min_bind = 15000;$/;"	v
+newstate	src/DwMararc.h	/^        char newstate[DWM_MAX_PATTERNS + 1];$/;"	m	struct:__anon12
+next	src/DwHash.h	/^        struct dw_element *next;$/;"	m	struct:dw_element	typeref:struct:dw_element::dw_element
+next	src/DwHash.h	/^        struct dw_fila *next;$/;"	m	struct:dw_fila	typeref:struct:dw_fila::dw_fila
+noise_to_rng	src/DwSys.c	/^void noise_to_rng(uint8_t *noise, int len) {$/;"	f
+ns	src/DwDnsStr.h	/^        uint16_t *ns; \/* Name server answers *\/$/;"	m	struct:__anon3
+ns	src/DwSocket.h	/^        dw_str *ns; \/* List of nameservers for this connection *\/$/;"	m	struct:__anon9
+ns_types	src/DwRecurse.h	/^        int8_t *ns_types;$/;"	m	struct:__anon13
+nscount	src/DwDnsStr.h	/^        int32_t nscount;$/;"	m	struct:__anon3
+num_1bits	src/RandomPrime.c	/^int num_1bits(uint32_t candidate) {$/;"	f
+num_locals	src/DwSocket.h	/^        uint16_t num_locals; \/* Number of local connections to send replies$/;"	m	struct:__anon9
+num_ports	src/DwSocket.c	/^int32_t num_ports = 4096;$/;"	v
+num_retries	src/DwSocket.c	/^int num_retries = 5;$/;"	v
+orig_query	src/DwSocket.h	/^        dw_str *orig_query; \/* Case-preserved form of query *\/$/;"	m	struct:__anon8
+p	sqa/dwood2rc_n_max_inflights/microdns_delay.c	/^char p[17] =$/;"	v
+p	sqa/dwood2rc_n_num_retries/simple.dns.c	/^char p[17] =$/;"	v
+p	sqa/dwood2rc_n_resurrections/dead.server.c	/^char p[17] =$/;"	v
+p	sqa/sqa_badid_question/badid.dns.c	/^char p[17] =$/;"	v
+p	sqa/sqa_badid_question/badquestion.dns.c	/^char p[17] =$/;"	v
+p	sqa/sqa_easydns_bad_truncation/simulate_easydns.c	/^char p[17] =$/;"	v
+p	sqa/sqa_root_upstream/microdns_rd_must_be_clear.c	/^char p[17] =$/;"	v
+p	sqa/sqa_root_upstream/microdns_rd_must_be_set.c	/^char p[17] =$/;"	v
+p	sqa/sqa_roy_arends/sendpacket-arends.c	/^char p[PACKET_LEN] =$/;"	v
+p	sqa/sqa_server_fail/microdns.c	/^char p[17] =$/;"	v
+p	sqa/sqa_ttl_expire/microdns-timestamp.c	/^char p[17] =$/;"	v
+packet	src/DwDnsStr.h	/^        dw_str *packet;$/;"	m	struct:__anon3
+pattern	src/DwMararc.h	/^        char pattern[DWM_MAX_PATTERNS + 1];$/;"	m	struct:__anon12
+pop_ip	src/DwSocket.c	/^void pop_ip(dw_str *list, ip_addr_T *ip) {$/;"	f
+pop_ip_core	src/DwSocket.c	/^void pop_ip_core(dw_str *list, ip_addr_T *ip,char *c) {$/;"	f
+pop_ip_mask	src/DwSocket.c	/^void pop_ip_mask(dw_str *list, ip_mask_T *ip_mask) {$/;"	f
+pop_last_item	src/DwSys.c	/^char *pop_last_item(dw_str *list) {$/;"	f
+port	src/DwSocket.h	/^        uint16_t port; \/* Port local request came from *\/$/;"	m	struct:__anon8
+prev	src/DwHash.h	/^        struct dw_element **prev; \/* A pointer to the pointer to this element,$/;"	m	struct:dw_element	typeref:struct:dw_element::dw_element
+process_body	tools/ej/ej2html	/^sub process_body {$/;"	s
+process_mararc	src/DwSys.c	/^void process_mararc(char *name) {$/;"	f
+process_mararc_params	src/DwSocket.c	/^void process_mararc_params() {$/;"	f
+process_numeric_mararc_params	src/DwSocket.c	/^void process_numeric_mararc_params() {$/;"	f
+process_results	src/DwSocket.c	/^void process_results(int a, fd_set *rx_fd) {$/;"	f
+process_root_upstream	src/DwSocket.c	/^void process_root_upstream() {$/;"	f
+process_root_upstream_servers	src/DwSocket.c	/^int process_root_upstream_servers(int param, int is_upstream, char *bad) {$/;"	f
+process_signal	src/DwSys.c	/^void process_signal(int number) {$/;"	f
+query	src/DwSocket.h	/^        dw_str *query;$/;"	m	struct:__anon9
+record	src/DwHash.h	/^        struct dw_element *record;$/;"	m	struct:dw_fila	typeref:struct:dw_fila::dw_element
+recurse_depth	src/DwSocket.h	/^        uint8_t recurse_depth;$/;"	m	struct:__anon9
+recursive_acl	src/DwSocket.c	/^ip_mask_T recursive_acl[DW_MAXIPS + 1];$/;"	v
+rem	src/DwSocket.c	/^remote_T *rem;$/;"	v
+remote	src/DwSocket.h	/^        SOCKET remote;$/;"	m	struct:__anon10
+remote_T	src/DwSocket.h	/^} remote_T;$/;"	t	typeref:struct:__anon9
+remote_id	src/DwSocket.h	/^        uint16_t remote_id; \/* Query ID generated by Deadwood *\/$/;"	m	struct:__anon9
+reset_rem	src/DwSocket.c	/^void reset_rem(int_fast32_t a) {$/;"	f
+reset_tcp_pend	src/DwSocket.h	213;"	d
+reset_tcp_rem	src/DwSocket.h	225;"	d
+resurrections	src/DwSocket.c	/^int resurrections = 1;$/;"	v
+retries	src/DwSocket.h	/^        int retries; \/* Number of times to retry connection *\/$/;"	m	struct:__anon9
+rng_seed	src/DwSys.c	/^dwr_rg *rng_seed;$/;"	v
+run_loop	src/DwWinSvc.c	/^int run_loop = 1;$/;"	v
+sStatus	src/DwWinSvc.c	/^static SERVICE_STATUS           sStatus;$/;"	v	file:
+sa_family_t	src/DwSocket.h	71;"	d
+sandbox	src/DwSys.c	/^void sandbox() {$/;"	f
+sane	src/DwStr.h	/^        uint8_t sane; \/* private *\/$/;"	m	struct:__anon14
+send_reply_from_cache	src/DwUdpSocket.c	/^int send_reply_from_cache(unsigned char *a, ssize_t count, int b, int l) {$/;"	f
+send_server_fail	src/DwUdpSocket.c	/^void send_server_fail(sockaddr_all_T *client,unsigned char *a, int len,$/;"	f
+sent	src/DwSocket.h	/^        int32_t sent;   \/* Bytes sent downstream from TCP connection *\/$/;"	m	struct:__anon11
+server_fail_noreply	src/DwUdpSocket.c	/^void server_fail_noreply(int a, int local_num) {$/;"	f
+set_add_constant	src/DwHash.c	/^void set_add_constant() {$/;"	f
+set_dns_qid	src/DwSys.c	/^int32_t set_dns_qid(unsigned char *packet, int len, uint16_t qid) {$/;"	f
+set_ip_list	src/DwSocket.c	/^void set_ip_list(ip_addr_T *list, dw_str *str) {$/;"	f
+set_ipmask_list	src/DwSocket.c	/^void set_ipmask_list(ip_mask_T *list, dw_str *str) {$/;"	f
+set_rx_fd	src/DwSocket.c	/^void set_rx_fd(fd_set *rx_fd) {$/;"	f
+set_time	src/DwSys.c	/^void set_time() {$/;"	f
+setup_bind	src/DwUdpSocket.c	/^void setup_bind(sockaddr_all_T *dns_udp, uint16_t port, int len) {$/;"	f
+setup_server	src/DwUdpSocket.c	/^SOCKET setup_server(sockaddr_all_T *server, ip_addr_T *addr) {$/;"	f
+setup_signals	src/DwSys.c	/^void setup_signals() {$/;"	f
+setup_tcp_server	src/DwTcpSocket.c	/^SOCKET setup_tcp_server(sockaddr_all_T *server, dw_str *query, int b) {$/;"	f
+show_fsm	src/DwMararc.c	/^void show_fsm() {$/;"	f
+show_str	src/DwCompress.c	/^void show_str(dw_str *u) {$/;"	f
+size	src/DwHash.h	/^        int32_t size; \/* Number of elements in hash *\/$/;"	m	struct:__anon2
+sockaddr_all_T	src/DwSocket.h	/^} sockaddr_all_T;$/;"	t	typeref:struct:__anon6
+socket	src/DwSocket.h	/^        SOCKET socket; \/* Socket for connection upstream *\/$/;"	m	struct:__anon9
+socklen_t	src/DwSocket.h	72;"	d
+state	src/DwSocket.h	/^        int state;      \/* What is the connection doing right now? *\/$/;"	m	struct:__anon11
+str	src/DwStr.h	/^        uint8_t *str; } dw_str;$/;"	m	struct:__anon14
+svc_install_service	src/DwWinSvc.c	/^void svc_install_service() {$/;"	f
+svc_remove_service	src/DwWinSvc.c	/^void svc_remove_service() {$/;"	f
+svc_service_control	src/DwWinSvc.c	/^void svc_service_control(DWORD dwControl) {$/;"	f
+svc_service_main	src/DwWinSvc.c	/^void svc_service_main(int argc, char **argv) {$/;"	f
+tcp_b_local	src/DwTcpSocket.c	/^SOCKET tcp_b_local[DW_MAXIPS + 1]; \/* Local sockets *\/$/;"	v
+tcp_downstream_forward	src/DwTcpSocket.c	/^void tcp_downstream_forward(int b) {$/;"	f
+tcp_get_upstream_len	src/DwTcpSocket.c	/^void tcp_get_upstream_len(int b) {$/;"	f
+tcp_get_wanted	src/DwTcpSocket.c	/^void tcp_get_wanted(int b) {$/;"	f
+tcp_handle_all	src/DwTcpSocket.c	/^void tcp_handle_all(int b) {$/;"	f
+tcp_num	src/DwSocket.h	/^        int tcp_num; \/* If this is a UDP connection, this has a value of$/;"	m	struct:__anon8
+tcp_pend	src/DwTcpSocket.c	/^tcp_pend_T *tcp_pend;$/;"	v
+tcp_pend_T	src/DwSocket.h	/^} tcp_pend_T;$/;"	t	typeref:struct:__anon11
+tcp_prepare_upstream_len	src/DwTcpSocket.c	/^void tcp_prepare_upstream_len(int b) {$/;"	f
+tcp_process_data	src/DwTcpSocket.c	/^void tcp_process_data(int b) {$/;"	f
+tcp_process_results	src/DwTcpSocket.c	/^void tcp_process_results(int a, fd_set *rx_fd) {$/;"	f
+tcp_remote2local	src/DwSocket.h	237;"	d
+tcp_remote_T	src/DwSocket.h	/^} tcp_remote_T;$/;"	t	typeref:struct:__anon10
+tcp_return_reply	src/DwTcpSocket.c	/^void tcp_return_reply(int b, char *packet, int len) {$/;"	f
+tcp_send_wanted	src/DwTcpSocket.c	/^void tcp_send_wanted(int b) {$/;"	f
+tcp_to_udp	src/DwTcpSocket.c	/^void tcp_to_udp(int b) {$/;"	f
+tcp_truncated_retry	src/DwTcpSocket.c	/^void tcp_truncated_retry(int b, dw_str *query, int id, int udp_id, int is_up) {$/;"	f
+tcp_upstream_send	src/DwTcpSocket.c	/^void tcp_upstream_send(int b) {$/;"	f
+the_time	src/DwSys.c	/^int64_t the_time = 0;$/;"	v
+timeout_seconds	src/DwSocket.c	/^int timeout_seconds = 1;$/;"	v
+timeout_seconds	src/DwSocket.c	/^int timeout_seconds = 2;$/;"	v
+timeout_seconds_tcp	src/DwSocket.c	/^int timeout_seconds_tcp = 4;$/;"	v
+try_forward_local_udp_packet	src/DwUdpSocket.c	/^void try_forward_local_udp_packet(SOCKET sock, int32_t local_id,$/;"	f
+type	src/DwDnsStr.h	/^        uint8_t type;$/;"	m	struct:__anon3
+u	src/DwSocket.h	/^        } u;$/;"	m	struct:__anon6	typeref:union:__anon6::__anon7
+upstream	src/DwSocket.h	/^        SOCKET upstream; \/* For TCP queries after getting truncated packets *\/$/;"	m	struct:__anon11
+upstream_address	src/DwSocket.c	/^ip_addr_T upstream_address[DW_MAXIPS + 1];$/;"	v
+upstream_port	src/DwSocket.c	/^int upstream_port = 53;$/;"	v
+usage	src/DwMain.c	/^void usage() {$/;"	f
+v4	src/DwSocket.h	/^                struct sockaddr_in v4;$/;"	m	union:__anon6::__anon7	typeref:struct:__anon6::__anon7::sockaddr_in
+v6	src/DwSocket.h	/^                struct sockaddr_in6 v6;$/;"	m	union:__anon6::__anon7	typeref:struct:__anon6::__anon7::sockaddr_in6
+value	src/DwHash.h	/^        dw_str *value;$/;"	m	struct:dw_element
+verify_dns_packet	src/DwUdpSocket.c	/^int verify_dns_packet(int b, unsigned char *packet, int len) {$/;"	f
+wanted	src/DwSocket.h	/^        int32_t wanted; \/* Bytes wanted from TCP connection *\/$/;"	m	struct:__anon11
+windows_socket_start	src/DwMain.c	/^void windows_socket_start() {$/;"	f
+zap_inflight	src/DwUdpSocket.c	/^void zap_inflight(dw_str *query) {$/;"	f
