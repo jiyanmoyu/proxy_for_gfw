@@ -1,0 +1,8 @@
+#build environment
+export CC="gcc"
+export CFLAGS="-ggdb -pipe "
+export CPP="gcc -E"
+export CPPFLAGS="-D_XOPEN_SOURCE=600 -D_XOPEN_SOURCE_EXTENDED -D_BSD_SOURCE -DDEBUG=1 -D_FORTIFY_SOURCE=2"
+export LDFLAGS=""
+export SOCKDDEPS="-lm"
+export LIBS="-lrt -lcrypt  -ldl "
